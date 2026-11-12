@@ -1,0 +1,21 @@
+Voice reference samples
+
+The WAV files in this directory were generated with Piper TTS using the following
+publicly distributed voice models from https://huggingface.co/rhasspy/piper-voices:
+
+- Kathleen: en/en_US/kathleen/low. Its model card identifies the source dataset
+  as CC0: https://github.com/rhasspy/dataset-voice-kathleen
+- Kristin: en/en_US/kristin/medium. Its model card identifies its LibriVox
+  training recordings as public domain.
+- John: en/en_US/john/medium. Its model card identifies its LibriVox training
+  recordings as public domain.
+- Bryce: en/en_US/bryce/medium. Its model card identifies its dataset as public
+  domain. See https://brycebeattie.com/files/tts/ for the training source.
+
+Piper source code: https://github.com/OHF-Voice/piper1-gpl
+Voice model cards and exact models:
+https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US
+
+The samples were synthesized from the same original sentence specifically for
+this application. Ham Study supplies the resulting samples to Qwen3-TTS as voice
+references; Qwen's output is an approximation, not the original Piper voice.
