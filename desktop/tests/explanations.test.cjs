@@ -30,6 +30,9 @@ test('private explanations are complete and render in study and saved results of
   const row = id => page.locator('#study-page section > ol > li').filter({has: page.locator('.question-id', {hasText: id})});
   const age = row('B-001-004-001');
   const details = age.locator('details.question-explanation');
+  const answer = age.locator('summary.answer');
+  assert.match(await answer.innerText(), /There are no age limits/);
+  assert.equal(await age.getByText('There are no age limits', {exact: true}).count(), 1);
   await age.locator('.question').click();
   await details.locator('.explanation-body').waitFor();
   assert.match(await details.innerText(), /References[\s\S]*https:\/\/ised-isde\.canada\.ca/);
@@ -38,6 +41,8 @@ test('private explanations are complete and render in study and saved results of
   assert.equal(await details.getAttribute('open'), null);
   await age.locator('.answer strong').click();
   assert.equal(await details.getAttribute('open'), '');
+  await age.locator('.answer strong').click();
+  assert.equal(await details.getAttribute('open'), null);
   assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
   await row('B-003-019-008').locator('summary').click();
   assert.match(await row('B-003-019-008').locator('details').innerText(), /Ham Study note/);
@@ -55,7 +60,11 @@ test('private explanations are complete and render in study and saved results of
   assert.equal(await results.first().locator('details').count(), 0);
   assert.equal(await results.locator('details[open]').count(), 99);
   const ageResult = results.filter({has: page.locator('.sim-meta', {hasText: 'B-001-004-001'})});
+  const resultAnswer = ageResult.locator('summary');
+  assert.match(await resultAnswer.innerText(), /Correct answer: There are no age limits/);
   assert.match(await ageResult.innerText(), /Incorrect[\s\S]*Source: CLARES/);
+  await resultAnswer.click();
+  assert.equal(await ageResult.locator('details').getAttribute('open'), null);
   await page.locator('#save-result').click();
   await page.locator('#back-tests').click();
   await page.getByRole('button', {name: 'Review', exact: true}).click();

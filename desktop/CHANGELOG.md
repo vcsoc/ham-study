@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.4 (personal build)
+
+- Use the answer itself to open and close its offline explanation, without repeating it or showing a separate "Explanation" control.
+
 ## 0.2.3 (personal build)
 
 - Show bundled explanations directly in the study bank and in incorrect or unanswered test results. No browser or network is needed to read them; citation URLs are displayed as text.

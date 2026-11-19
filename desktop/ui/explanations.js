@@ -13,11 +13,13 @@
     return node;
   }
 
-  function panel(id, open = false) {
-    if (!bankIds.has(id)) return null;
+  function panel(id, answer, open = false) {
+    if (!answer || !bankIds.has(id)) return null;
     const details = document.createElement('details');
     details.className = 'question-explanation';
-    const summary = element('summary', 'Explanation');
+    const summary = document.createElement('summary');
+    summary.className = answer.className;
+    summary.append(...answer.childNodes);
     const content = document.createElement('div');
     content.className = 'explanation-content';
     details.append(summary, content);
@@ -42,14 +44,15 @@
   }
 
   const study = document.getElementById('study-page');
-  study.querySelectorAll('section ol > li').forEach(row => {
-    const details = panel(row.querySelector('.question-id')?.textContent.trim());
-    if (details) row.lastElementChild.append(details);
+  study.querySelectorAll('section > ol > li').forEach(row => {
+    const answer = row.querySelector('.answer');
+    const details = panel(row.querySelector('.question-id')?.textContent.trim(), answer);
+    if (details) answer.replaceWith(details);
   });
   study.addEventListener('click', event => {
-    const passage = event.target.closest('.question, .answer');
+    const passage = event.target.closest('.question');
     if (!passage || window.getSelection()?.toString()) return;
-    const details = passage.closest('ol > li')?.querySelector('.question-explanation');
+    const details = passage.closest('section > ol > li')?.querySelector('.question-explanation');
     if (details) details.open = true;
   });
 
@@ -58,8 +61,9 @@
       container.querySelectorAll('.results-answers > .sim-question').forEach((row, index) => {
         const item = items[index];
         if (!item || item.correct) return;
-        const details = panel(item.id, true);
-        if (details) row.append(details);
+        const answer = row.querySelector('.result-correct-answer');
+        const details = panel(item.id, answer, true);
+        if (details) answer.replaceWith(details);
       });
     }
   };

@@ -107,7 +107,7 @@
     row.classList.add('selected-question');
   }
   study.addEventListener('click', event => {
-    if (!event.target.closest('.question-explanation')) selectQuestion(event.target.closest('section > ol > li'));
+    if (!event.target.closest('.explanation-content')) selectQuestion(event.target.closest('section > ol > li'));
   });
   document.addEventListener('ham-select-question', event => selectQuestion(event.detail));
   const updateInfo = () => { infoButton.title = status.textContent; infoButton.setAttribute('aria-label', 'Reader information: ' + status.textContent); };
@@ -270,7 +270,7 @@
   play.addEventListener('click', () => startReading());
   study.addEventListener('dblclick', event => {
     if (stop.disabled) return;
-    if (event.target.closest('.question-explanation')) return;
+    if (event.target.closest('.explanation-content')) return;
     const row = event.target.closest('section > ol > li');
     const section = row && row.closest('#study-page section');
     if (!section) return;
