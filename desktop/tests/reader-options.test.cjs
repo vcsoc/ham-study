@@ -10,6 +10,8 @@ test('reads only explicitly expanded explanations with the answer voice and supp
   const page = await browser.newPage({viewport: {width: 1326, height: 830}, reducedMotion: 'reduce'});
   await page.addInitScript(() => {
     window.HamStudyPrivateExplanations = {'B-001-001-001': {sourceId: 'B-001-001-001', reviewed: true, html: '<p>This is an offline fixture explanation.</p><h2>References</h2><p>https://example.invalid</p>'}};
+    localStorage.setItem('ham-study-speech-consent-v1', 'enabled');
+    localStorage.setItem('ham-reader-settings', JSON.stringify({engine: 'kokoro'}));
     window.spoken = [];
     const voices = [{id: 'kokoro-question', name: 'Question'}, {id: 'kokoro-answer', name: 'Answer'}];
     window.__TAURI__ = {core: {invoke: async (cmd, args) => {

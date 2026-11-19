@@ -1,0 +1,15 @@
+.ham-icon { display:block; width:18px; height:18px; flex:none; }
+#reader-info, #reader-settings-info, #speech-refresh, #theme-toggle, .settings-button { display:grid; place-items:center; min-width:36px; min-height:36px; padding:7px; }
+.welcome-dialog { width:min(490px, calc(100% - 32px)); max-height:calc(100dvh - 32px - env(safe-area-inset-top) - env(safe-area-inset-bottom)); overflow:auto; padding:clamp(16px, 5vw, 26px); color:var(--text); background:linear-gradient(145deg, color-mix(in srgb, var(--accent) 12%, var(--surface)), var(--surface) 50%); border:1px solid var(--study-edge, var(--line)); border-radius:16px; box-shadow:0 24px 90px #0007; }
+.welcome-dialog::backdrop { background:#070d17a8; }
+.welcome-emblem { display:grid; place-items:center; width:44px; height:44px; color:var(--accent); border:1px solid var(--line); border-radius:11px; background:var(--surface); }
+.welcome-emblem .ham-icon { width:25px; height:25px; }
+.welcome-kicker { color:var(--accent); font-size:11px; letter-spacing:.12em; font-weight:700; margin:17px 0 3px; }
+.welcome-dialog h1 { margin:0 0 13px; }
+.welcome-dialog .welcome-note { color:var(--muted); font-size:13px; }
+.welcome-actions { display:flex; flex-wrap:wrap; justify-content:flex-end; gap:10px; margin-top:22px; }
+.welcome-button { min-width:0; max-width:100%; min-height:44px; padding:9px 14px; border:1px solid var(--line); border-radius:8px; background:var(--surface); color:var(--text); font-size:14px; font-weight:600; line-height:1.35; text-align:center; overflow-wrap:anywhere; cursor:pointer; }
+.welcome-button:hover { background:var(--hover); }
+.welcome-button-primary { color:var(--bg); background:var(--accent); border-color:var(--accent); font-weight:700; }
+.welcome-button-primary:hover { background:var(--accent); filter:brightness(1.12); }
+@media (max-width:480px) { .welcome-actions { display:grid; grid-template-columns:minmax(0, 1fr); } }

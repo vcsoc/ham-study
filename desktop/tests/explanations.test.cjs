@@ -48,6 +48,7 @@ test('private explanations are complete and render in study and saved results of
   await page.locator('#B-003 > summary').click();
   await page.locator('#section-B-003-019 > summary').click();
   await row('B-003-019-008').locator('summary').click();
+  await row('B-003-019-008').getByText('Ham Study note.', {exact: false}).waitFor();
   assert.match(await row('B-003-019-008').locator('details').innerText(), /Ham Study note/);
 
   await page.goto(app + '#simulator');

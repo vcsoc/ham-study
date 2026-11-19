@@ -1,0 +1,5426 @@
+[
+  {
+    "speaker": 0,
+    "reader_id": "3922",
+    "name": "Ashley Candland",
+    "gender": "Female"
+  },
+  {
+    "speaker": 1,
+    "reader_id": "8699",
+    "name": "Jessica Atha",
+    "gender": "Female"
+  },
+  {
+    "speaker": 2,
+    "reader_id": "4535",
+    "name": "Brett W. Downey",
+    "gender": "Male"
+  },
+  {
+    "speaker": 3,
+    "reader_id": "6701",
+    "name": "Dayle",
+    "gender": "Male"
+  },
+  {
+    "speaker": 4,
+    "reader_id": "3638",
+    "name": "AmyG",
+    "gender": "Female"
+  },
+  {
+    "speaker": 5,
+    "reader_id": "922",
+    "name": "Steven H. Wilson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 6,
+    "reader_id": "2531",
+    "name": "Greg Weeks",
+    "gender": "Male"
+  },
+  {
+    "speaker": 7,
+    "reader_id": "1638",
+    "name": "Kyle M.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 8,
+    "reader_id": "8848",
+    "name": "Craig Kenneth Bryant",
+    "gender": "Male"
+  },
+  {
+    "speaker": 9,
+    "reader_id": "6544",
+    "name": "Amanda Friday",
+    "gender": "Female"
+  },
+  {
+    "speaker": 10,
+    "reader_id": "3615",
+    "name": "Lucy Perry",
+    "gender": "Female"
+  },
+  {
+    "speaker": 11,
+    "reader_id": "318",
+    "name": "Eileen aka e",
+    "gender": "Female"
+  },
+  {
+    "speaker": 12,
+    "reader_id": "6104",
+    "name": "Juliana M.",
+    "gender": "Female"
+  },
+  {
+    "speaker": 13,
+    "reader_id": "5400",
+    "name": "Natalie Sullivan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 14,
+    "reader_id": "5712",
+    "name": "Alexandra Huckabay",
+    "gender": "Female"
+  },
+  {
+    "speaker": 15,
+    "reader_id": "1382",
+    "name": "Heather Lawrence",
+    "gender": "Female"
+  },
+  {
+    "speaker": 16,
+    "reader_id": "2769",
+    "name": "Anthony Wilson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 17,
+    "reader_id": "2573",
+    "name": "Becca B",
+    "gender": "Female"
+  },
+  {
+    "speaker": 18,
+    "reader_id": "1463",
+    "name": "Vivian Bush",
+    "gender": "Female"
+  },
+  {
+    "speaker": 19,
+    "reader_id": "6458",
+    "name": "Dennis Blake",
+    "gender": "Male"
+  },
+  {
+    "speaker": 20,
+    "reader_id": "4356",
+    "name": "Patricia Rutledge",
+    "gender": "Female"
+  },
+  {
+    "speaker": 21,
+    "reader_id": "3274",
+    "name": "Morgan Saletta",
+    "gender": "Male"
+  },
+  {
+    "speaker": 22,
+    "reader_id": "8498",
+    "name": "Ian Quinlan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 23,
+    "reader_id": "5570",
+    "name": "Corinna Schultz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 24,
+    "reader_id": "176",
+    "name": "Vinny Bove",
+    "gender": "Male"
+  },
+  {
+    "speaker": 25,
+    "reader_id": "339",
+    "name": "Heather Ordover",
+    "gender": "Female"
+  },
+  {
+    "speaker": 26,
+    "reader_id": "28",
+    "name": "Kristin Hughes",
+    "gender": "Female"
+  },
+  {
+    "speaker": 27,
+    "reader_id": "5909",
+    "name": "Mark Mickelson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 28,
+    "reader_id": "3869",
+    "name": "Timothy Pinkham",
+    "gender": "Male"
+  },
+  {
+    "speaker": 29,
+    "reader_id": "4899",
+    "name": "Theresa L. Downey",
+    "gender": "Female"
+  },
+  {
+    "speaker": 30,
+    "reader_id": "64",
+    "name": "Robin Cotter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 31,
+    "reader_id": "3368",
+    "name": "Jim Allman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 32,
+    "reader_id": "3307",
+    "name": "Doug Allison",
+    "gender": "Male"
+  },
+  {
+    "speaker": 33,
+    "reader_id": "5618",
+    "name": "Shirleyroses",
+    "gender": "Female"
+  },
+  {
+    "speaker": 34,
+    "reader_id": "3370",
+    "name": "Glenn Simonsen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 35,
+    "reader_id": "4595",
+    "name": "Eric Leach",
+    "gender": "Male"
+  },
+  {
+    "speaker": 36,
+    "reader_id": "7704",
+    "name": "Robert Harder",
+    "gender": "Male"
+  },
+  {
+    "speaker": 37,
+    "reader_id": "8506",
+    "name": "Denise Nordell",
+    "gender": "Female"
+  },
+  {
+    "speaker": 38,
+    "reader_id": "8410",
+    "name": "Shauna Kennett",
+    "gender": "Female"
+  },
+  {
+    "speaker": 39,
+    "reader_id": "6904",
+    "name": "Kirsten Nelson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 40,
+    "reader_id": "5655",
+    "name": "Christine Rodriguez",
+    "gender": "Female"
+  },
+  {
+    "speaker": 41,
+    "reader_id": "2204",
+    "name": "Pamnache",
+    "gender": "Female"
+  },
+  {
+    "speaker": 42,
+    "reader_id": "501",
+    "name": "mikenkat",
+    "gender": "Male"
+  },
+  {
+    "speaker": 43,
+    "reader_id": "7314",
+    "name": "Rick Cahill",
+    "gender": "Male"
+  },
+  {
+    "speaker": 44,
+    "reader_id": "1027",
+    "name": "Brooks Jensen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 45,
+    "reader_id": "5054",
+    "name": "Denice Stradling",
+    "gender": "Female"
+  },
+  {
+    "speaker": 46,
+    "reader_id": "534",
+    "name": "Jean O'Sullivan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 47,
+    "reader_id": "2853",
+    "name": "Jane Greensmith",
+    "gender": "Female"
+  },
+  {
+    "speaker": 48,
+    "reader_id": "5935",
+    "name": "Mike Okonek",
+    "gender": "Male"
+  },
+  {
+    "speaker": 49,
+    "reader_id": "2404",
+    "name": "n8evv",
+    "gender": "Male"
+  },
+  {
+    "speaker": 50,
+    "reader_id": "7874",
+    "name": "dgulino",
+    "gender": "Male"
+  },
+  {
+    "speaker": 51,
+    "reader_id": "816",
+    "name": "Jeff Robinson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 52,
+    "reader_id": "2053",
+    "name": "Vincent Tapia",
+    "gender": "Female"
+  },
+  {
+    "speaker": 53,
+    "reader_id": "8066",
+    "name": "Tim Cote",
+    "gender": "Male"
+  },
+  {
+    "speaker": 54,
+    "reader_id": "16",
+    "name": "Alys AtteWater",
+    "gender": "Female"
+  },
+  {
+    "speaker": 55,
+    "reader_id": "4586",
+    "name": "Chris Caron",
+    "gender": "Male"
+  },
+  {
+    "speaker": 56,
+    "reader_id": "1923",
+    "name": "Maire Rhode",
+    "gender": "Female"
+  },
+  {
+    "speaker": 57,
+    "reader_id": "2592",
+    "name": "Anna Roberts",
+    "gender": "Female"
+  },
+  {
+    "speaker": 58,
+    "reader_id": "1265",
+    "name": "Edward Elmer",
+    "gender": "Male"
+  },
+  {
+    "speaker": 59,
+    "reader_id": "6189",
+    "name": "Shana Cohen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 60,
+    "reader_id": "100",
+    "name": "Judy Bieber",
+    "gender": "Female"
+  },
+  {
+    "speaker": 61,
+    "reader_id": "6371",
+    "name": "Rebecca King",
+    "gender": "Female"
+  },
+  {
+    "speaker": 62,
+    "reader_id": "4957",
+    "name": "P Moscato",
+    "gender": "Female"
+  },
+  {
+    "speaker": 63,
+    "reader_id": "4116",
+    "name": "Amy Benton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 64,
+    "reader_id": "3003",
+    "name": "Sue Anderson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 65,
+    "reader_id": "7739",
+    "name": "Melissa Burns-Price",
+    "gender": "Female"
+  },
+  {
+    "speaker": 66,
+    "reader_id": "1752",
+    "name": "Jan MacGillivray",
+    "gender": "Female"
+  },
+  {
+    "speaker": 67,
+    "reader_id": "5717",
+    "name": "Phil Chenevert",
+    "gender": "Male"
+  },
+  {
+    "speaker": 68,
+    "reader_id": "5012",
+    "name": "Morgan Schlicker",
+    "gender": "Female"
+  },
+  {
+    "speaker": 69,
+    "reader_id": "5062",
+    "name": "E Ogston",
+    "gender": "Female"
+  },
+  {
+    "speaker": 70,
+    "reader_id": "7481",
+    "name": "Karen Howard",
+    "gender": "Female"
+  },
+  {
+    "speaker": 71,
+    "reader_id": "2299",
+    "name": "cpalmer17",
+    "gender": "Male"
+  },
+  {
+    "speaker": 72,
+    "reader_id": "7188",
+    "name": "Marty",
+    "gender": "Male"
+  },
+  {
+    "speaker": 73,
+    "reader_id": "93",
+    "name": "Kathy",
+    "gender": "Female"
+  },
+  {
+    "speaker": 74,
+    "reader_id": "4145",
+    "name": "Patti Cunningham",
+    "gender": "Female"
+  },
+  {
+    "speaker": 75,
+    "reader_id": "8684",
+    "name": "Alison Stewart",
+    "gender": "Female"
+  },
+  {
+    "speaker": 76,
+    "reader_id": "7594",
+    "name": "Kristel Tretter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 77,
+    "reader_id": "2598",
+    "name": "Barbara Bulkeley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 78,
+    "reader_id": "3540",
+    "name": "Bill Ruhsam",
+    "gender": "Male"
+  },
+  {
+    "speaker": 79,
+    "reader_id": "7717",
+    "name": "Astrid Fingerhut",
+    "gender": "Female"
+  },
+  {
+    "speaker": 80,
+    "reader_id": "6426",
+    "name": "Pat Redstone",
+    "gender": "Female"
+  },
+  {
+    "speaker": 81,
+    "reader_id": "4148",
+    "name": "David A. Moore.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 82,
+    "reader_id": "1379",
+    "name": "Ken Crooker",
+    "gender": "Male"
+  },
+  {
+    "speaker": 83,
+    "reader_id": "2512",
+    "name": "Marion",
+    "gender": "Female"
+  },
+  {
+    "speaker": 84,
+    "reader_id": "335",
+    "name": "Paul Harvey",
+    "gender": "Male"
+  },
+  {
+    "speaker": 85,
+    "reader_id": "242",
+    "name": "Cagirlwithasoutherndrawl",
+    "gender": "Female"
+  },
+  {
+    "speaker": 86,
+    "reader_id": "8855",
+    "name": "Eric Metzler",
+    "gender": "Male"
+  },
+  {
+    "speaker": 87,
+    "reader_id": "8118",
+    "name": "Katie McClain",
+    "gender": "Female"
+  },
+  {
+    "speaker": 88,
+    "reader_id": "369",
+    "name": "Kevin Readdean",
+    "gender": "Male"
+  },
+  {
+    "speaker": 89,
+    "reader_id": "6575",
+    "name": "Patrick Painter",
+    "gender": "Male"
+  },
+  {
+    "speaker": 90,
+    "reader_id": "6694",
+    "name": "Ross Williamson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 91,
+    "reader_id": "8080",
+    "name": "e.a.zokaites",
+    "gender": "Female"
+  },
+  {
+    "speaker": 92,
+    "reader_id": "1283",
+    "name": "Paul Siegel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 93,
+    "reader_id": "7434",
+    "name": "Emily Feuka",
+    "gender": "Female"
+  },
+  {
+    "speaker": 94,
+    "reader_id": "5290",
+    "name": "Natalie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 95,
+    "reader_id": "1731",
+    "name": "Dani",
+    "gender": "Female"
+  },
+  {
+    "speaker": 96,
+    "reader_id": "2401",
+    "name": "Matt Warzel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 97,
+    "reader_id": "459",
+    "name": "Mark Bradford",
+    "gender": "Male"
+  },
+  {
+    "speaker": 98,
+    "reader_id": "192",
+    "name": "Deborah Clark",
+    "gender": "Female"
+  },
+  {
+    "speaker": 99,
+    "reader_id": "7910",
+    "name": "southernemma",
+    "gender": "Female"
+  },
+  {
+    "speaker": 100,
+    "reader_id": "114",
+    "name": "Jen Kidd",
+    "gender": "Female"
+  },
+  {
+    "speaker": 101,
+    "reader_id": "5660",
+    "name": "hollz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 102,
+    "reader_id": "1313",
+    "name": "Scott Sherris",
+    "gender": "Male"
+  },
+  {
+    "speaker": 103,
+    "reader_id": "203",
+    "name": "Marian Brown",
+    "gender": "Female"
+  },
+  {
+    "speaker": 104,
+    "reader_id": "7460",
+    "name": "Larry Beasley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 105,
+    "reader_id": "207",
+    "name": "Kevin McAsh",
+    "gender": "Male"
+  },
+  {
+    "speaker": 106,
+    "reader_id": "6497",
+    "name": "James E. Carson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 107,
+    "reader_id": "6696",
+    "name": "Katryn Wiese",
+    "gender": "Female"
+  },
+  {
+    "speaker": 108,
+    "reader_id": "7766",
+    "name": "Maryanka",
+    "gender": "Female"
+  },
+  {
+    "speaker": 109,
+    "reader_id": "6233",
+    "name": "Gen Jones",
+    "gender": "Female"
+  },
+  {
+    "speaker": 110,
+    "reader_id": "3185",
+    "name": "JohnNewman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 111,
+    "reader_id": "2010",
+    "name": "Julie Bynum",
+    "gender": "Female"
+  },
+  {
+    "speaker": 112,
+    "reader_id": "2056",
+    "name": "Nancy Roberts",
+    "gender": "Female"
+  },
+  {
+    "speaker": 113,
+    "reader_id": "3717",
+    "name": "Elliott Miller",
+    "gender": "Male"
+  },
+  {
+    "speaker": 114,
+    "reader_id": "5802",
+    "name": "Christopher Maust",
+    "gender": "Male"
+  },
+  {
+    "speaker": 115,
+    "reader_id": "5622",
+    "name": "Roseanne Schmidt",
+    "gender": "Female"
+  },
+  {
+    "speaker": 116,
+    "reader_id": "2156",
+    "name": "Roger Melin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 117,
+    "reader_id": "4243",
+    "name": "Ian Grae",
+    "gender": "Male"
+  },
+  {
+    "speaker": 118,
+    "reader_id": "5039",
+    "name": "Inga Parsons",
+    "gender": "Female"
+  },
+  {
+    "speaker": 119,
+    "reader_id": "4110",
+    "name": "Richard Ellwood",
+    "gender": "Male"
+  },
+  {
+    "speaker": 120,
+    "reader_id": "1093",
+    "name": "Kiki Baessell",
+    "gender": "Female"
+  },
+  {
+    "speaker": 121,
+    "reader_id": "1776",
+    "name": "Jim Eastman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 122,
+    "reader_id": "7995",
+    "name": "Marie Hoffman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 123,
+    "reader_id": "6877",
+    "name": "Bear Schacht",
+    "gender": "Male"
+  },
+  {
+    "speaker": 124,
+    "reader_id": "5635",
+    "name": "Matthew Reece",
+    "gender": "Male"
+  },
+  {
+    "speaker": 125,
+    "reader_id": "54",
+    "name": "Westwinds12",
+    "gender": "Female"
+  },
+  {
+    "speaker": 126,
+    "reader_id": "288",
+    "name": "Bookworm",
+    "gender": "Female"
+  },
+  {
+    "speaker": 127,
+    "reader_id": "4592",
+    "name": "WestWestest",
+    "gender": "Female"
+  },
+  {
+    "speaker": 128,
+    "reader_id": "7276",
+    "name": "ASPotter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 129,
+    "reader_id": "688",
+    "name": "J. M. Smallheer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 130,
+    "reader_id": "8388",
+    "name": "Jacki Horn",
+    "gender": "Female"
+  },
+  {
+    "speaker": 131,
+    "reader_id": "1422",
+    "name": "Yazpistachio",
+    "gender": "Female"
+  },
+  {
+    "speaker": 132,
+    "reader_id": "8152",
+    "name": "Bigcowfeet",
+    "gender": "Male"
+  },
+  {
+    "speaker": 133,
+    "reader_id": "8194",
+    "name": "MsMO",
+    "gender": "Female"
+  },
+  {
+    "speaker": 134,
+    "reader_id": "7000",
+    "name": "Kevin Alix",
+    "gender": "Male"
+  },
+  {
+    "speaker": 135,
+    "reader_id": "8527",
+    "name": "Gary Bohannon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 136,
+    "reader_id": "5126",
+    "name": "Tom Lennon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 137,
+    "reader_id": "3923",
+    "name": "Sean Michael Hogan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 138,
+    "reader_id": "1054",
+    "name": "Igor Teaforay",
+    "gender": "Female"
+  },
+  {
+    "speaker": 139,
+    "reader_id": "3927",
+    "name": "Bob Stretch",
+    "gender": "Male"
+  },
+  {
+    "speaker": 140,
+    "reader_id": "5029",
+    "name": "Courtney Sandhu",
+    "gender": "Female"
+  },
+  {
+    "speaker": 141,
+    "reader_id": "4098",
+    "name": "Rachell Lovett",
+    "gender": "Female"
+  },
+  {
+    "speaker": 142,
+    "reader_id": "56",
+    "name": "Kirsten Ferreri",
+    "gender": "Female"
+  },
+  {
+    "speaker": 143,
+    "reader_id": "7240",
+    "name": "Lucretia B.",
+    "gender": "Female"
+  },
+  {
+    "speaker": 144,
+    "reader_id": "5538",
+    "name": "Linda Velwest",
+    "gender": "Female"
+  },
+  {
+    "speaker": 145,
+    "reader_id": "1903",
+    "name": "Michael Thomas Robinson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 146,
+    "reader_id": "6538",
+    "name": "Juan Federico",
+    "gender": "Male"
+  },
+  {
+    "speaker": 147,
+    "reader_id": "3380",
+    "name": "DrBeccaAnne",
+    "gender": "Female"
+  },
+  {
+    "speaker": 148,
+    "reader_id": "6643",
+    "name": "cbooren",
+    "gender": "Female"
+  },
+  {
+    "speaker": 149,
+    "reader_id": "7495",
+    "name": "Arlene Joyce",
+    "gender": "Female"
+  },
+  {
+    "speaker": 150,
+    "reader_id": "8718",
+    "name": "Deena Rhoads",
+    "gender": "Female"
+  },
+  {
+    "speaker": 151,
+    "reader_id": "8050",
+    "name": "Jake Woldstad",
+    "gender": "Male"
+  },
+  {
+    "speaker": 152,
+    "reader_id": "1789",
+    "name": "Vin Reilly",
+    "gender": "Male"
+  },
+  {
+    "speaker": 153,
+    "reader_id": "126",
+    "name": "Susan Denney",
+    "gender": "Female"
+  },
+  {
+    "speaker": 154,
+    "reader_id": "7245",
+    "name": "Laura Atkinson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 155,
+    "reader_id": "2517",
+    "name": "Gayland Darnell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 156,
+    "reader_id": "4438",
+    "name": "Greg W.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 157,
+    "reader_id": "7145",
+    "name": "Lita Ledesma",
+    "gender": "Female"
+  },
+  {
+    "speaker": 158,
+    "reader_id": "724",
+    "name": "Michael Crowl",
+    "gender": "Male"
+  },
+  {
+    "speaker": 159,
+    "reader_id": "4945",
+    "name": "Charles RUHE",
+    "gender": "Male"
+  },
+  {
+    "speaker": 160,
+    "reader_id": "9022",
+    "name": "Claire M",
+    "gender": "Female"
+  },
+  {
+    "speaker": 161,
+    "reader_id": "6637",
+    "name": "Christine Nendza",
+    "gender": "Female"
+  },
+  {
+    "speaker": 162,
+    "reader_id": "6927",
+    "name": "Sarika Pawar",
+    "gender": "Female"
+  },
+  {
+    "speaker": 163,
+    "reader_id": "6937",
+    "name": "DVoice",
+    "gender": "Female"
+  },
+  {
+    "speaker": 164,
+    "reader_id": "8113",
+    "name": "PennyAnn",
+    "gender": "Female"
+  },
+  {
+    "speaker": 165,
+    "reader_id": "5724",
+    "name": "paintgirl",
+    "gender": "Female"
+  },
+  {
+    "speaker": 166,
+    "reader_id": "6006",
+    "name": "Stephanie Lee",
+    "gender": "Female"
+  },
+  {
+    "speaker": 167,
+    "reader_id": "3584",
+    "name": "Bridget Gaige",
+    "gender": "Female"
+  },
+  {
+    "speaker": 168,
+    "reader_id": "2971",
+    "name": "Matthew C. Heckel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 169,
+    "reader_id": "2230",
+    "name": "Isosceles",
+    "gender": "Female"
+  },
+  {
+    "speaker": 170,
+    "reader_id": "7982",
+    "name": "Lori Arsenault",
+    "gender": "Female"
+  },
+  {
+    "speaker": 171,
+    "reader_id": "1649",
+    "name": "Kalynda",
+    "gender": "Female"
+  },
+  {
+    "speaker": 172,
+    "reader_id": "3994",
+    "name": "Miriam Esther Goldman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 173,
+    "reader_id": "7720",
+    "name": "jeffwiltzius",
+    "gender": "Male"
+  },
+  {
+    "speaker": 174,
+    "reader_id": "6981",
+    "name": "nlonghu",
+    "gender": "Male"
+  },
+  {
+    "speaker": 175,
+    "reader_id": "781",
+    "name": "Mitchell Dwyer",
+    "gender": "Male"
+  },
+  {
+    "speaker": 176,
+    "reader_id": "4973",
+    "name": "Michael Lipschultz",
+    "gender": "Male"
+  },
+  {
+    "speaker": 177,
+    "reader_id": "6206",
+    "name": "Yvonne Smith",
+    "gender": "Female"
+  },
+  {
+    "speaker": 178,
+    "reader_id": "2481",
+    "name": "Alana Jordan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 179,
+    "reader_id": "3157",
+    "name": "TriciaG",
+    "gender": "Female"
+  },
+  {
+    "speaker": 180,
+    "reader_id": "1509",
+    "name": "Miranda Stinson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 181,
+    "reader_id": "510",
+    "name": "Kirk Thomas",
+    "gender": "Male"
+  },
+  {
+    "speaker": 182,
+    "reader_id": "7540",
+    "name": "Christopher Webber",
+    "gender": "Male"
+  },
+  {
+    "speaker": 183,
+    "reader_id": "8887",
+    "name": "Andrew Hernandez",
+    "gender": "Male"
+  },
+  {
+    "speaker": 184,
+    "reader_id": "7120",
+    "name": "L D Hamilton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 185,
+    "reader_id": "2882",
+    "name": "ayngelwing",
+    "gender": "Female"
+  },
+  {
+    "speaker": 186,
+    "reader_id": "7128",
+    "name": "morganreads",
+    "gender": "Male"
+  },
+  {
+    "speaker": 187,
+    "reader_id": "8142",
+    "name": "Timothy Lucas",
+    "gender": "Male"
+  },
+  {
+    "speaker": 188,
+    "reader_id": "7229",
+    "name": "Linda Ciano",
+    "gender": "Female"
+  },
+  {
+    "speaker": 189,
+    "reader_id": "2787",
+    "name": "Quentin Manuel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 190,
+    "reader_id": "8820",
+    "name": "Ignare",
+    "gender": "Male"
+  },
+  {
+    "speaker": 191,
+    "reader_id": "2368",
+    "name": "Alex C. Telander",
+    "gender": "Male"
+  },
+  {
+    "speaker": 192,
+    "reader_id": "4331",
+    "name": "Barbara Clements",
+    "gender": "Female"
+  },
+  {
+    "speaker": 193,
+    "reader_id": "4967",
+    "name": "Karen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 194,
+    "reader_id": "4427",
+    "name": "Lynne Handler",
+    "gender": "Female"
+  },
+  {
+    "speaker": 195,
+    "reader_id": "6054",
+    "name": "Leslie Stevens Suhy",
+    "gender": "Female"
+  },
+  {
+    "speaker": 196,
+    "reader_id": "3728",
+    "name": "amycs",
+    "gender": "Female"
+  },
+  {
+    "speaker": 197,
+    "reader_id": "274",
+    "name": "Eileen George",
+    "gender": "Female"
+  },
+  {
+    "speaker": 198,
+    "reader_id": "7134",
+    "name": "Steve Jackson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 199,
+    "reader_id": "1603",
+    "name": "Arouet",
+    "gender": "Male"
+  },
+  {
+    "speaker": 200,
+    "reader_id": "1383",
+    "name": "David Best",
+    "gender": "Male"
+  },
+  {
+    "speaker": 201,
+    "reader_id": "1165",
+    "name": "Bob Graff",
+    "gender": "Male"
+  },
+  {
+    "speaker": 202,
+    "reader_id": "4363",
+    "name": "Emily Livingston",
+    "gender": "Female"
+  },
+  {
+    "speaker": 203,
+    "reader_id": "512",
+    "name": "Anthony Craine",
+    "gender": "Male"
+  },
+  {
+    "speaker": 204,
+    "reader_id": "5985",
+    "name": "James K. White",
+    "gender": "Male"
+  },
+  {
+    "speaker": 205,
+    "reader_id": "7967",
+    "name": "Lois Hill",
+    "gender": "Female"
+  },
+  {
+    "speaker": 206,
+    "reader_id": "2060",
+    "name": "Julie Pandya",
+    "gender": "Female"
+  },
+  {
+    "speaker": 207,
+    "reader_id": "7752",
+    "name": "Samantha Miles",
+    "gender": "Female"
+  },
+  {
+    "speaker": 208,
+    "reader_id": "7484",
+    "name": "Tyran Rexx",
+    "gender": "Male"
+  },
+  {
+    "speaker": 209,
+    "reader_id": "8643",
+    "name": "jabc1950",
+    "gender": "Male"
+  },
+  {
+    "speaker": 210,
+    "reader_id": "3549",
+    "name": "Katie Riley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 211,
+    "reader_id": "5731",
+    "name": "Andrea Boltz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 212,
+    "reader_id": "7881",
+    "name": "Sam Naishtat",
+    "gender": "Male"
+  },
+  {
+    "speaker": 213,
+    "reader_id": "667",
+    "name": "Bethany Simpson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 214,
+    "reader_id": "6828",
+    "name": "Lori Fuller Chugiak, AK",
+    "gender": "Female"
+  },
+  {
+    "speaker": 215,
+    "reader_id": "5740",
+    "name": "Alisa",
+    "gender": "Female"
+  },
+  {
+    "speaker": 216,
+    "reader_id": "3483",
+    "name": "Alan Winterrowd",
+    "gender": "Male"
+  },
+  {
+    "speaker": 217,
+    "reader_id": "718",
+    "name": "clarknova",
+    "gender": "Male"
+  },
+  {
+    "speaker": 218,
+    "reader_id": "6341",
+    "name": "Tiffany J. Kim",
+    "gender": "Female"
+  },
+  {
+    "speaker": 219,
+    "reader_id": "1913",
+    "name": "Geoff Cowgill",
+    "gender": "Male"
+  },
+  {
+    "speaker": 220,
+    "reader_id": "3228",
+    "name": "Benuathanasia",
+    "gender": "Female"
+  },
+  {
+    "speaker": 221,
+    "reader_id": "7247",
+    "name": "Robert Hoffman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 222,
+    "reader_id": "7705",
+    "name": "Timothy Luke",
+    "gender": "Male"
+  },
+  {
+    "speaker": 223,
+    "reader_id": "1018",
+    "name": "JimmyLogan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 224,
+    "reader_id": "8193",
+    "name": "helengraves",
+    "gender": "Female"
+  },
+  {
+    "speaker": 225,
+    "reader_id": "6098",
+    "name": "Kancamagus",
+    "gender": "Male"
+  },
+  {
+    "speaker": 226,
+    "reader_id": "3989",
+    "name": "Rayne",
+    "gender": "Male"
+  },
+  {
+    "speaker": 227,
+    "reader_id": "7828",
+    "name": "Dan Mason",
+    "gender": "Male"
+  },
+  {
+    "speaker": 228,
+    "reader_id": "5876",
+    "name": "kelleywyskiel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 229,
+    "reader_id": "7754",
+    "name": "Iridescat",
+    "gender": "Female"
+  },
+  {
+    "speaker": 230,
+    "reader_id": "4719",
+    "name": "M. Craun",
+    "gender": "Male"
+  },
+  {
+    "speaker": 231,
+    "reader_id": "8011",
+    "name": "Greg Giordano",
+    "gender": "Male"
+  },
+  {
+    "speaker": 232,
+    "reader_id": "7939",
+    "name": "DPranitis",
+    "gender": "Male"
+  },
+  {
+    "speaker": 233,
+    "reader_id": "5975",
+    "name": "Tony Maxey",
+    "gender": "Male"
+  },
+  {
+    "speaker": 234,
+    "reader_id": "2004",
+    "name": "Kim S",
+    "gender": "Female"
+  },
+  {
+    "speaker": 235,
+    "reader_id": "6139",
+    "name": "Lois C. Johnson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 236,
+    "reader_id": "8183",
+    "name": "Cheri Jordan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 237,
+    "reader_id": "3482",
+    "name": "Hayden",
+    "gender": "Female"
+  },
+  {
+    "speaker": 238,
+    "reader_id": "3361",
+    "name": "Linda Lee Paquet",
+    "gender": "Female"
+  },
+  {
+    "speaker": 239,
+    "reader_id": "4289",
+    "name": "Veronica Jenkins",
+    "gender": "Female"
+  },
+  {
+    "speaker": 240,
+    "reader_id": "231",
+    "name": "Sean McGaughey",
+    "gender": "Male"
+  },
+  {
+    "speaker": 241,
+    "reader_id": "7789",
+    "name": "Lauren Jane",
+    "gender": "Female"
+  },
+  {
+    "speaker": 242,
+    "reader_id": "4598",
+    "name": "cher0520",
+    "gender": "Female"
+  },
+  {
+    "speaker": 243,
+    "reader_id": "5239",
+    "name": "compozr",
+    "gender": "Male"
+  },
+  {
+    "speaker": 244,
+    "reader_id": "2638",
+    "name": "Dawn",
+    "gender": "Female"
+  },
+  {
+    "speaker": 245,
+    "reader_id": "6300",
+    "name": "Sarah Crampton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 246,
+    "reader_id": "8474",
+    "name": "Scott Snowman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 247,
+    "reader_id": "2194",
+    "name": "RobbieRogers",
+    "gender": "Female"
+  },
+  {
+    "speaker": 248,
+    "reader_id": "7832",
+    "name": "DJRickyV",
+    "gender": "Male"
+  },
+  {
+    "speaker": 249,
+    "reader_id": "1079",
+    "name": "Mary aka Breadchick",
+    "gender": "Female"
+  },
+  {
+    "speaker": 250,
+    "reader_id": "1335",
+    "name": "Clarica",
+    "gender": "Female"
+  },
+  {
+    "speaker": 251,
+    "reader_id": "188",
+    "name": "Mary Anderson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 252,
+    "reader_id": "1195",
+    "name": "Jennette Selig",
+    "gender": "Female"
+  },
+  {
+    "speaker": 253,
+    "reader_id": "5914",
+    "name": "bobbybrill",
+    "gender": "Male"
+  },
+  {
+    "speaker": 254,
+    "reader_id": "1401",
+    "name": "Sibella Denton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 255,
+    "reader_id": "7318",
+    "name": "Anise",
+    "gender": "Female"
+  },
+  {
+    "speaker": 256,
+    "reader_id": "5448",
+    "name": "Bryan Reid",
+    "gender": "Male"
+  },
+  {
+    "speaker": 257,
+    "reader_id": "1392",
+    "name": "Chris Masterson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 258,
+    "reader_id": "3703",
+    "name": "Linda Andrus",
+    "gender": "Female"
+  },
+  {
+    "speaker": 259,
+    "reader_id": "2113",
+    "name": "Andrew Vidal",
+    "gender": "Male"
+  },
+  {
+    "speaker": 260,
+    "reader_id": "7783",
+    "name": "Rebecca Owens",
+    "gender": "Female"
+  },
+  {
+    "speaker": 261,
+    "reader_id": "8176",
+    "name": "Jon Kerfoot",
+    "gender": "Male"
+  },
+  {
+    "speaker": 262,
+    "reader_id": "6519",
+    "name": "Monica Knuppe",
+    "gender": "Female"
+  },
+  {
+    "speaker": 263,
+    "reader_id": "7933",
+    "name": "Highlandoaks",
+    "gender": "Female"
+  },
+  {
+    "speaker": 264,
+    "reader_id": "7938",
+    "name": "Goss45",
+    "gender": "Male"
+  },
+  {
+    "speaker": 265,
+    "reader_id": "7802",
+    "name": "Samantha J Gubitz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 266,
+    "reader_id": "6120",
+    "name": "Terra Mendoza",
+    "gender": "Female"
+  },
+  {
+    "speaker": 267,
+    "reader_id": "224",
+    "name": "Caitlin Kelly",
+    "gender": "Female"
+  },
+  {
+    "speaker": 268,
+    "reader_id": "209",
+    "name": "Moira Fogarty",
+    "gender": "Female"
+  },
+  {
+    "speaker": 269,
+    "reader_id": "5656",
+    "name": "Joe Mabry",
+    "gender": "Male"
+  },
+  {
+    "speaker": 270,
+    "reader_id": "3032",
+    "name": "Utek",
+    "gender": "Male"
+  },
+  {
+    "speaker": 271,
+    "reader_id": "6965",
+    "name": "NoelBadrian",
+    "gender": "Male"
+  },
+  {
+    "speaker": 272,
+    "reader_id": "258",
+    "name": "Kurt Wong",
+    "gender": "Male"
+  },
+  {
+    "speaker": 273,
+    "reader_id": "4837",
+    "name": "Sharon Kilmer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 274,
+    "reader_id": "5489",
+    "name": "LizMourant",
+    "gender": "Female"
+  },
+  {
+    "speaker": 275,
+    "reader_id": "272",
+    "name": "Mr. Baby Man",
+    "gender": "Male"
+  },
+  {
+    "speaker": 276,
+    "reader_id": "3851",
+    "name": "mbousquet",
+    "gender": "Female"
+  },
+  {
+    "speaker": 277,
+    "reader_id": "7140",
+    "name": "Deanna Bovee",
+    "gender": "Female"
+  },
+  {
+    "speaker": 278,
+    "reader_id": "2562",
+    "name": "Scott Merrill",
+    "gender": "Male"
+  },
+  {
+    "speaker": 279,
+    "reader_id": "1472",
+    "name": "Sarah Jennings",
+    "gender": "Female"
+  },
+  {
+    "speaker": 280,
+    "reader_id": "79",
+    "name": "Jennifer Crispin",
+    "gender": "Female"
+  },
+  {
+    "speaker": 281,
+    "reader_id": "2775",
+    "name": "ink tree",
+    "gender": "Female"
+  },
+  {
+    "speaker": 282,
+    "reader_id": "3046",
+    "name": "Stephanie Land",
+    "gender": "Female"
+  },
+  {
+    "speaker": 283,
+    "reader_id": "2532",
+    "name": "Jennifer Lott",
+    "gender": "Female"
+  },
+  {
+    "speaker": 284,
+    "reader_id": "8266",
+    "name": "Jeff K.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 285,
+    "reader_id": "6099",
+    "name": "Cheri Gardner",
+    "gender": "Female"
+  },
+  {
+    "speaker": 286,
+    "reader_id": "4425",
+    "name": "Gary Coy",
+    "gender": "Male"
+  },
+  {
+    "speaker": 287,
+    "reader_id": "5293",
+    "name": "Ned Troxel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 288,
+    "reader_id": "7981",
+    "name": "timothyFR",
+    "gender": "Male"
+  },
+  {
+    "speaker": 289,
+    "reader_id": "2045",
+    "name": "David O'Connell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 290,
+    "reader_id": "920",
+    "name": "Sarah Bean",
+    "gender": "Female"
+  },
+  {
+    "speaker": 291,
+    "reader_id": "511",
+    "name": "Matthew Shepherd",
+    "gender": "Male"
+  },
+  {
+    "speaker": 292,
+    "reader_id": "7416",
+    "name": "Jeanni Hall",
+    "gender": "Female"
+  },
+  {
+    "speaker": 293,
+    "reader_id": "835",
+    "name": "echo",
+    "gender": "Male"
+  },
+  {
+    "speaker": 294,
+    "reader_id": "1289",
+    "name": "Joanne Pauwels",
+    "gender": "Female"
+  },
+  {
+    "speaker": 295,
+    "reader_id": "8195",
+    "name": "Mr Krause",
+    "gender": "Male"
+  },
+  {
+    "speaker": 296,
+    "reader_id": "7833",
+    "name": "Jesse Crisp-Sears",
+    "gender": "Male"
+  },
+  {
+    "speaker": 297,
+    "reader_id": "8772",
+    "name": "Martin Reyto",
+    "gender": "Male"
+  },
+  {
+    "speaker": 298,
+    "reader_id": "968",
+    "name": "Pat Elder",
+    "gender": "Female"
+  },
+  {
+    "speaker": 299,
+    "reader_id": "1641",
+    "name": "Rohanna",
+    "gender": "Female"
+  },
+  {
+    "speaker": 300,
+    "reader_id": "7117",
+    "name": "Art Leung",
+    "gender": "Female"
+  },
+  {
+    "speaker": 301,
+    "reader_id": "1678",
+    "name": "leonardswench",
+    "gender": "Female"
+  },
+  {
+    "speaker": 302,
+    "reader_id": "5809",
+    "name": "kattekliek",
+    "gender": "Female"
+  },
+  {
+    "speaker": 303,
+    "reader_id": "8028",
+    "name": "Tom Geller",
+    "gender": "Male"
+  },
+  {
+    "speaker": 304,
+    "reader_id": "500",
+    "name": "galaxiant",
+    "gender": "Male"
+  },
+  {
+    "speaker": 305,
+    "reader_id": "6505",
+    "name": "Elena",
+    "gender": "Female"
+  },
+  {
+    "speaker": 306,
+    "reader_id": "7868",
+    "name": "Chessie Joy",
+    "gender": "Female"
+  },
+  {
+    "speaker": 307,
+    "reader_id": "14",
+    "name": "Kristin LeMoine",
+    "gender": "Female"
+  },
+  {
+    "speaker": 308,
+    "reader_id": "2238",
+    "name": "Will Larson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 309,
+    "reader_id": "4744",
+    "name": "Amy Gramour",
+    "gender": "Female"
+  },
+  {
+    "speaker": 310,
+    "reader_id": "3733",
+    "name": "Melanie Schleeter McCalmont",
+    "gender": "Female"
+  },
+  {
+    "speaker": 311,
+    "reader_id": "7515",
+    "name": "Cynthia Moyer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 312,
+    "reader_id": "699",
+    "name": "Diana Kiesners",
+    "gender": "Female"
+  },
+  {
+    "speaker": 313,
+    "reader_id": "5093",
+    "name": "Nicole Kay",
+    "gender": "Female"
+  },
+  {
+    "speaker": 314,
+    "reader_id": "6388",
+    "name": "Leda",
+    "gender": "Female"
+  },
+  {
+    "speaker": 315,
+    "reader_id": "7959",
+    "name": "Lily Took",
+    "gender": "Female"
+  },
+  {
+    "speaker": 316,
+    "reader_id": "98",
+    "name": "Patricia Oakley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 317,
+    "reader_id": "3914",
+    "name": "Rob James",
+    "gender": "Male"
+  },
+  {
+    "speaker": 318,
+    "reader_id": "5246",
+    "name": "Mike Bloomfield",
+    "gender": "Male"
+  },
+  {
+    "speaker": 319,
+    "reader_id": "2570",
+    "name": "kindlibrarian",
+    "gender": "Female"
+  },
+  {
+    "speaker": 320,
+    "reader_id": "8396",
+    "name": "gloriousjob",
+    "gender": "Male"
+  },
+  {
+    "speaker": 321,
+    "reader_id": "3513",
+    "name": "Symmie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 322,
+    "reader_id": "882",
+    "name": "Mur Lafferty",
+    "gender": "Female"
+  },
+  {
+    "speaker": 323,
+    "reader_id": "7994",
+    "name": "Marian Cervassi",
+    "gender": "Female"
+  },
+  {
+    "speaker": 324,
+    "reader_id": "5968",
+    "name": "Cate Barratt",
+    "gender": "Female"
+  },
+  {
+    "speaker": 325,
+    "reader_id": "8591",
+    "name": "Jude Somers",
+    "gender": "Female"
+  },
+  {
+    "speaker": 326,
+    "reader_id": "806",
+    "name": "Aaron Andradne",
+    "gender": "Male"
+  },
+  {
+    "speaker": 327,
+    "reader_id": "5261",
+    "name": "Ali Kazerani",
+    "gender": "Male"
+  },
+  {
+    "speaker": 328,
+    "reader_id": "1271",
+    "name": "Christian Pecaut",
+    "gender": "Male"
+  },
+  {
+    "speaker": 329,
+    "reader_id": "899",
+    "name": "thomahal",
+    "gender": "Male"
+  },
+  {
+    "speaker": 330,
+    "reader_id": "3945",
+    "name": "Floyd Wilde",
+    "gender": "Male"
+  },
+  {
+    "speaker": 331,
+    "reader_id": "8404",
+    "name": "Lynne Ray",
+    "gender": "Female"
+  },
+  {
+    "speaker": 332,
+    "reader_id": "249",
+    "name": "pww214",
+    "gender": "Male"
+  },
+  {
+    "speaker": 333,
+    "reader_id": "3008",
+    "name": "Gloria Zbilicki",
+    "gender": "Female"
+  },
+  {
+    "speaker": 334,
+    "reader_id": "7139",
+    "name": "gabrielv",
+    "gender": "Male"
+  },
+  {
+    "speaker": 335,
+    "reader_id": "6395",
+    "name": "Richard Carpenter",
+    "gender": "Male"
+  },
+  {
+    "speaker": 336,
+    "reader_id": "6215",
+    "name": "Janet248",
+    "gender": "Female"
+  },
+  {
+    "speaker": 337,
+    "reader_id": "6080",
+    "name": "progressingamerica",
+    "gender": "Male"
+  },
+  {
+    "speaker": 338,
+    "reader_id": "4054",
+    "name": "Ryan Gubele",
+    "gender": "Male"
+  },
+  {
+    "speaker": 339,
+    "reader_id": "7825",
+    "name": "PDyer",
+    "gender": "Male"
+  },
+  {
+    "speaker": 340,
+    "reader_id": "6683",
+    "name": "Julia Kelley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 341,
+    "reader_id": "8725",
+    "name": "Gary Ericson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 342,
+    "reader_id": "3230",
+    "name": "rasputin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 343,
+    "reader_id": "4138",
+    "name": "daltongirl",
+    "gender": "Female"
+  },
+  {
+    "speaker": 344,
+    "reader_id": "6160",
+    "name": "FaithR",
+    "gender": "Female"
+  },
+  {
+    "speaker": 345,
+    "reader_id": "666",
+    "name": "Monique",
+    "gender": "Female"
+  },
+  {
+    "speaker": 346,
+    "reader_id": "6510",
+    "name": "JimD",
+    "gender": "Male"
+  },
+  {
+    "speaker": 347,
+    "reader_id": "3551",
+    "name": "Annie Kirkpatrick",
+    "gender": "Female"
+  },
+  {
+    "speaker": 348,
+    "reader_id": "8075",
+    "name": "Melora",
+    "gender": "Female"
+  },
+  {
+    "speaker": 349,
+    "reader_id": "225",
+    "name": "Brenda Dayne",
+    "gender": "Female"
+  },
+  {
+    "speaker": 350,
+    "reader_id": "7169",
+    "name": "Ryan Ransom",
+    "gender": "Male"
+  },
+  {
+    "speaker": 351,
+    "reader_id": "1851",
+    "name": "Kehinde",
+    "gender": "Female"
+  },
+  {
+    "speaker": 352,
+    "reader_id": "5984",
+    "name": "sbburke",
+    "gender": "Female"
+  },
+  {
+    "speaker": 353,
+    "reader_id": "2960",
+    "name": "Scotty",
+    "gender": "Male"
+  },
+  {
+    "speaker": 354,
+    "reader_id": "8329",
+    "name": "Betty Perry",
+    "gender": "Female"
+  },
+  {
+    "speaker": 355,
+    "reader_id": "175",
+    "name": "Meredith Hughes",
+    "gender": "Female"
+  },
+  {
+    "speaker": 356,
+    "reader_id": "6378",
+    "name": "Michelle Day",
+    "gender": "Female"
+  },
+  {
+    "speaker": 357,
+    "reader_id": "480",
+    "name": "Chris Vee",
+    "gender": "Male"
+  },
+  {
+    "speaker": 358,
+    "reader_id": "7538",
+    "name": "Logan West",
+    "gender": "Male"
+  },
+  {
+    "speaker": 359,
+    "reader_id": "479",
+    "name": "wedschild",
+    "gender": "Female"
+  },
+  {
+    "speaker": 360,
+    "reader_id": "5519",
+    "name": "scoutman77",
+    "gender": "Male"
+  },
+  {
+    "speaker": 361,
+    "reader_id": "8534",
+    "name": "Chris Clark",
+    "gender": "Male"
+  },
+  {
+    "speaker": 362,
+    "reader_id": "4856",
+    "name": "Steven Seitel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 363,
+    "reader_id": "101",
+    "name": "paulino",
+    "gender": "Male"
+  },
+  {
+    "speaker": 364,
+    "reader_id": "3521",
+    "name": "NickNumber",
+    "gender": "Male"
+  },
+  {
+    "speaker": 365,
+    "reader_id": "2256",
+    "name": "tamurile",
+    "gender": "Female"
+  },
+  {
+    "speaker": 366,
+    "reader_id": "3083",
+    "name": "Emily Jarmard",
+    "gender": "Female"
+  },
+  {
+    "speaker": 367,
+    "reader_id": "4278",
+    "name": "smhamon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 368,
+    "reader_id": "8713",
+    "name": "Expatriate",
+    "gender": "Male"
+  },
+  {
+    "speaker": 369,
+    "reader_id": "1226",
+    "name": "Russ Lemker",
+    "gender": "Male"
+  },
+  {
+    "speaker": 370,
+    "reader_id": "4222",
+    "name": "msjodi777",
+    "gender": "Female"
+  },
+  {
+    "speaker": 371,
+    "reader_id": "8494",
+    "name": "Bill Yallalee",
+    "gender": "Male"
+  },
+  {
+    "speaker": 372,
+    "reader_id": "8776",
+    "name": "Taliesin",
+    "gender": "Female"
+  },
+  {
+    "speaker": 373,
+    "reader_id": "731",
+    "name": "Megan-Jane Daniels Suyasu",
+    "gender": "Female"
+  },
+  {
+    "speaker": 374,
+    "reader_id": "6574",
+    "name": "Caden Vaughn Clegg",
+    "gender": "Male"
+  },
+  {
+    "speaker": 375,
+    "reader_id": "5319",
+    "name": "Guero",
+    "gender": "Male"
+  },
+  {
+    "speaker": 376,
+    "reader_id": "8605",
+    "name": "Kate Sterner",
+    "gender": "Female"
+  },
+  {
+    "speaker": 377,
+    "reader_id": "5583",
+    "name": "Claudia Wilson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 378,
+    "reader_id": "6406",
+    "name": "Abigail Rasmussen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 379,
+    "reader_id": "4064",
+    "name": "Margaret Espaillat",
+    "gender": "Female"
+  },
+  {
+    "speaker": 380,
+    "reader_id": "4806",
+    "name": "Jason Ingolfsland",
+    "gender": "Male"
+  },
+  {
+    "speaker": 381,
+    "reader_id": "3972",
+    "name": "Joy Easton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 382,
+    "reader_id": "7383",
+    "name": "Meg Cowan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 383,
+    "reader_id": "5133",
+    "name": "Jo Karabasz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 384,
+    "reader_id": "597",
+    "name": "Lisa Chau",
+    "gender": "Female"
+  },
+  {
+    "speaker": 385,
+    "reader_id": "1025",
+    "name": "rdmagpie",
+    "gender": "Male"
+  },
+  {
+    "speaker": 386,
+    "reader_id": "7313",
+    "name": "Mark DeVol",
+    "gender": "Male"
+  },
+  {
+    "speaker": 387,
+    "reader_id": "5304",
+    "name": "Don W. Jenkins",
+    "gender": "Male"
+  },
+  {
+    "speaker": 388,
+    "reader_id": "8758",
+    "name": "Krzysztof Rowinski",
+    "gender": "Male"
+  },
+  {
+    "speaker": 389,
+    "reader_id": "1050",
+    "name": "entada",
+    "gender": "Female"
+  },
+  {
+    "speaker": 390,
+    "reader_id": "6499",
+    "name": "dave7",
+    "gender": "Male"
+  },
+  {
+    "speaker": 391,
+    "reader_id": "6956",
+    "name": "DannyHauger",
+    "gender": "Male"
+  },
+  {
+    "speaker": 392,
+    "reader_id": "770",
+    "name": "Justin S Barrett",
+    "gender": "Male"
+  },
+  {
+    "speaker": 393,
+    "reader_id": "4108",
+    "name": "garymacf",
+    "gender": "Male"
+  },
+  {
+    "speaker": 394,
+    "reader_id": "2774",
+    "name": "William Kevin Manire",
+    "gender": "Male"
+  },
+  {
+    "speaker": 395,
+    "reader_id": "3864",
+    "name": "Tom Watts",
+    "gender": "Male"
+  },
+  {
+    "speaker": 396,
+    "reader_id": "4490",
+    "name": "Rachel Weaver",
+    "gender": "Female"
+  },
+  {
+    "speaker": 397,
+    "reader_id": "4848",
+    "name": "Dee Wykoff",
+    "gender": "Male"
+  },
+  {
+    "speaker": 398,
+    "reader_id": "1826",
+    "name": "Jacob Miller",
+    "gender": "Male"
+  },
+  {
+    "speaker": 399,
+    "reader_id": "6294",
+    "name": "humanode",
+    "gender": "Male"
+  },
+  {
+    "speaker": 400,
+    "reader_id": "7949",
+    "name": "Jon Miller",
+    "gender": "Male"
+  },
+  {
+    "speaker": 401,
+    "reader_id": "1446",
+    "name": "Michael Loftus",
+    "gender": "Male"
+  },
+  {
+    "speaker": 402,
+    "reader_id": "7867",
+    "name": "nomorejeffs",
+    "gender": "Male"
+  },
+  {
+    "speaker": 403,
+    "reader_id": "8163",
+    "name": "Greengecko",
+    "gender": "Female"
+  },
+  {
+    "speaker": 404,
+    "reader_id": "953",
+    "name": "Jim Mullins",
+    "gender": "Male"
+  },
+  {
+    "speaker": 405,
+    "reader_id": "8138",
+    "name": "Lee Smalley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 406,
+    "reader_id": "353",
+    "name": "Jamey Osborne",
+    "gender": "Male"
+  },
+  {
+    "speaker": 407,
+    "reader_id": "7553",
+    "name": "BDSEmpire",
+    "gender": "Male"
+  },
+  {
+    "speaker": 408,
+    "reader_id": "8825",
+    "name": "Erin Schellhase",
+    "gender": "Female"
+  },
+  {
+    "speaker": 409,
+    "reader_id": "5189",
+    "name": "Samanem",
+    "gender": "Male"
+  },
+  {
+    "speaker": 410,
+    "reader_id": "2012",
+    "name": "jburby",
+    "gender": "Male"
+  },
+  {
+    "speaker": 411,
+    "reader_id": "948",
+    "name": "Chere Theriot",
+    "gender": "Female"
+  },
+  {
+    "speaker": 412,
+    "reader_id": "205",
+    "name": "Esther",
+    "gender": "Female"
+  },
+  {
+    "speaker": 413,
+    "reader_id": "1535",
+    "name": "Robert Scott",
+    "gender": "Male"
+  },
+  {
+    "speaker": 414,
+    "reader_id": "8008",
+    "name": "Paul Adamson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 415,
+    "reader_id": "1112",
+    "name": "RedToby",
+    "gender": "Male"
+  },
+  {
+    "speaker": 416,
+    "reader_id": "7926",
+    "name": "Steven Reynolds",
+    "gender": "Male"
+  },
+  {
+    "speaker": 417,
+    "reader_id": "4039",
+    "name": "Shawn Craig Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 418,
+    "reader_id": "716",
+    "name": "martyd",
+    "gender": "Male"
+  },
+  {
+    "speaker": 419,
+    "reader_id": "3967",
+    "name": "Christine Dufour",
+    "gender": "Female"
+  },
+  {
+    "speaker": 420,
+    "reader_id": "7932",
+    "name": "Tammy Stalcup",
+    "gender": "Female"
+  },
+  {
+    "speaker": 421,
+    "reader_id": "7525",
+    "name": "Jeannie Tirado",
+    "gender": "Female"
+  },
+  {
+    "speaker": 422,
+    "reader_id": "7316",
+    "name": "Joy S Grape",
+    "gender": "Female"
+  },
+  {
+    "speaker": 423,
+    "reader_id": "2393",
+    "name": "Michael Bradford",
+    "gender": "Male"
+  },
+  {
+    "speaker": 424,
+    "reader_id": "6788",
+    "name": "Pamela Krantz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 425,
+    "reader_id": "6550",
+    "name": "elfpen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 426,
+    "reader_id": "7011",
+    "name": "Icprice",
+    "gender": "Male"
+  },
+  {
+    "speaker": 427,
+    "reader_id": "8791",
+    "name": "ScottReyonoldsVoice",
+    "gender": "Male"
+  },
+  {
+    "speaker": 428,
+    "reader_id": "8119",
+    "name": "Malcolm Cameron",
+    "gender": "Male"
+  },
+  {
+    "speaker": 429,
+    "reader_id": "1777",
+    "name": "Professor Chronotis",
+    "gender": "Male"
+  },
+  {
+    "speaker": 430,
+    "reader_id": "6014",
+    "name": "Tina Nuzzi",
+    "gender": "Female"
+  },
+  {
+    "speaker": 431,
+    "reader_id": "1046",
+    "name": "durnburr",
+    "gender": "Male"
+  },
+  {
+    "speaker": 432,
+    "reader_id": "6269",
+    "name": "Don Halpert",
+    "gender": "Male"
+  },
+  {
+    "speaker": 433,
+    "reader_id": "6188",
+    "name": "Roxanna Nazari",
+    "gender": "Female"
+  },
+  {
+    "speaker": 434,
+    "reader_id": "5266",
+    "name": "Jill",
+    "gender": "Female"
+  },
+  {
+    "speaker": 435,
+    "reader_id": "3490",
+    "name": "Gregg Margarite (1957-2012)",
+    "gender": "Male"
+  },
+  {
+    "speaker": 436,
+    "reader_id": "8786",
+    "name": "Bruce Kachuk",
+    "gender": "Male"
+  },
+  {
+    "speaker": 437,
+    "reader_id": "8824",
+    "name": "Mark Johnston",
+    "gender": "Male"
+  },
+  {
+    "speaker": 438,
+    "reader_id": "3448",
+    "name": "Todd Lennon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 439,
+    "reader_id": "589",
+    "name": "Stephanie Konig",
+    "gender": "Female"
+  },
+  {
+    "speaker": 440,
+    "reader_id": "576",
+    "name": "Caroline Mercier",
+    "gender": "Female"
+  },
+  {
+    "speaker": 441,
+    "reader_id": "1121",
+    "name": "John Lieder",
+    "gender": "Male"
+  },
+  {
+    "speaker": 442,
+    "reader_id": "1806",
+    "name": "Gary W. Sherwin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 443,
+    "reader_id": "7294",
+    "name": "Muriel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 444,
+    "reader_id": "3119",
+    "name": "Sharon Riskedahl",
+    "gender": "Female"
+  },
+  {
+    "speaker": 445,
+    "reader_id": "2688",
+    "name": "Christopher Jennings",
+    "gender": "Male"
+  },
+  {
+    "speaker": 446,
+    "reader_id": "3446",
+    "name": "kayo",
+    "gender": "Female"
+  },
+  {
+    "speaker": 447,
+    "reader_id": "1012",
+    "name": "Lizzie Oldfather",
+    "gender": "Female"
+  },
+  {
+    "speaker": 448,
+    "reader_id": "4807",
+    "name": "Fuzz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 449,
+    "reader_id": "7498",
+    "name": "MarianneVictoria",
+    "gender": "Female"
+  },
+  {
+    "speaker": 450,
+    "reader_id": "3905",
+    "name": "J. Rebecca Franklin",
+    "gender": "Female"
+  },
+  {
+    "speaker": 451,
+    "reader_id": "7384",
+    "name": "Diana Dolan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 452,
+    "reader_id": "2992",
+    "name": "davechase",
+    "gender": "Male"
+  },
+  {
+    "speaker": 453,
+    "reader_id": "30",
+    "name": "Annie Coleman Rothenberg",
+    "gender": "Female"
+  },
+  {
+    "speaker": 454,
+    "reader_id": "497",
+    "name": "audiotoshokan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 455,
+    "reader_id": "227",
+    "name": "Sarah Key-DeLyria",
+    "gender": "Female"
+  },
+  {
+    "speaker": 456,
+    "reader_id": "4226",
+    "name": "Jud Niven",
+    "gender": "Male"
+  },
+  {
+    "speaker": 457,
+    "reader_id": "5007",
+    "name": "Kathleen Nelson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 458,
+    "reader_id": "1066",
+    "name": "Laurie Anne Walden",
+    "gender": "Female"
+  },
+  {
+    "speaker": 459,
+    "reader_id": "8222",
+    "name": "Greg Golding",
+    "gender": "Male"
+  },
+  {
+    "speaker": 460,
+    "reader_id": "7688",
+    "name": "Leslie Walden",
+    "gender": "Male"
+  },
+  {
+    "speaker": 461,
+    "reader_id": "6865",
+    "name": "Jing Li",
+    "gender": "Female"
+  },
+  {
+    "speaker": 462,
+    "reader_id": "6286",
+    "name": "Wendy Almeida",
+    "gender": "Female"
+  },
+  {
+    "speaker": 463,
+    "reader_id": "8225",
+    "name": "Matt Lusher",
+    "gender": "Male"
+  },
+  {
+    "speaker": 464,
+    "reader_id": "3224",
+    "name": "Acacia Wood",
+    "gender": "Female"
+  },
+  {
+    "speaker": 465,
+    "reader_id": "8635",
+    "name": "ACBowgus",
+    "gender": "Male"
+  },
+  {
+    "speaker": 466,
+    "reader_id": "1348",
+    "name": "Janet Friday",
+    "gender": "Female"
+  },
+  {
+    "speaker": 467,
+    "reader_id": "3645",
+    "name": "MaryAnn",
+    "gender": "Female"
+  },
+  {
+    "speaker": 468,
+    "reader_id": "1961",
+    "name": "Qhali",
+    "gender": "Female"
+  },
+  {
+    "speaker": 469,
+    "reader_id": "8190",
+    "name": "Lisa Phelps Gonzalez",
+    "gender": "Female"
+  },
+  {
+    "speaker": 470,
+    "reader_id": "6032",
+    "name": "Beverly Scott",
+    "gender": "Female"
+  },
+  {
+    "speaker": 471,
+    "reader_id": "7286",
+    "name": "kindfish",
+    "gender": "Female"
+  },
+  {
+    "speaker": 472,
+    "reader_id": "5389",
+    "name": "Joseph Lawler",
+    "gender": "Male"
+  },
+  {
+    "speaker": 473,
+    "reader_id": "3105",
+    "name": "gfairch511",
+    "gender": "Male"
+  },
+  {
+    "speaker": 474,
+    "reader_id": "1028",
+    "name": "Tim Lundeen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 475,
+    "reader_id": "6038",
+    "name": "Sirmelja",
+    "gender": "Female"
+  },
+  {
+    "speaker": 476,
+    "reader_id": "764",
+    "name": "Carl Vonnoh, III",
+    "gender": "Male"
+  },
+  {
+    "speaker": 477,
+    "reader_id": "7437",
+    "name": "Graham McMillan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 478,
+    "reader_id": "6555",
+    "name": "Alexandre Laplante",
+    "gender": "Male"
+  },
+  {
+    "speaker": 479,
+    "reader_id": "8875",
+    "name": "David D'Huet",
+    "gender": "Male"
+  },
+  {
+    "speaker": 480,
+    "reader_id": "2074",
+    "name": "Tysto",
+    "gender": "Male"
+  },
+  {
+    "speaker": 481,
+    "reader_id": "7809",
+    "name": "D. T. McGregor",
+    "gender": "Male"
+  },
+  {
+    "speaker": 482,
+    "reader_id": "2240",
+    "name": "Ralph Volpi",
+    "gender": "Male"
+  },
+  {
+    "speaker": 483,
+    "reader_id": "2827",
+    "name": "David Leeson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 484,
+    "reader_id": "5386",
+    "name": "Tim Ferreira",
+    "gender": "Male"
+  },
+  {
+    "speaker": 485,
+    "reader_id": "6763",
+    "name": "Manjit Bains",
+    "gender": "Female"
+  },
+  {
+    "speaker": 486,
+    "reader_id": "3009",
+    "name": "Jim Ruddy",
+    "gender": "Male"
+  },
+  {
+    "speaker": 487,
+    "reader_id": "6339",
+    "name": "Michelle Remington",
+    "gender": "Female"
+  },
+  {
+    "speaker": 488,
+    "reader_id": "1825",
+    "name": "srshel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 489,
+    "reader_id": "7569",
+    "name": "Stephen L. Moss",
+    "gender": "Male"
+  },
+  {
+    "speaker": 490,
+    "reader_id": "359",
+    "name": "John Nicholson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 491,
+    "reader_id": "7956",
+    "name": "Devon Purtz",
+    "gender": "Male"
+  },
+  {
+    "speaker": 492,
+    "reader_id": "2137",
+    "name": "Jerome Lawsen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 493,
+    "reader_id": "8677",
+    "name": "KHand",
+    "gender": "Female"
+  },
+  {
+    "speaker": 494,
+    "reader_id": "4434",
+    "name": "Sarah Nuxoll",
+    "gender": "Female"
+  },
+  {
+    "speaker": 495,
+    "reader_id": "329",
+    "name": "Todd Cranston-Cuebas",
+    "gender": "Male"
+  },
+  {
+    "speaker": 496,
+    "reader_id": "3289",
+    "name": "lukeprog",
+    "gender": "Male"
+  },
+  {
+    "speaker": 497,
+    "reader_id": "4290",
+    "name": "Joshua Paul Johnson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 498,
+    "reader_id": "2999",
+    "name": "Joseph Finkberg",
+    "gender": "Male"
+  },
+  {
+    "speaker": 499,
+    "reader_id": "2427",
+    "name": "Ed Meade",
+    "gender": "Male"
+  },
+  {
+    "speaker": 500,
+    "reader_id": "637",
+    "name": "Michael Scherer",
+    "gender": "Male"
+  },
+  {
+    "speaker": 501,
+    "reader_id": "2229",
+    "name": "Pete Williams, Pittsburgh, PA",
+    "gender": "Male"
+  },
+  {
+    "speaker": 502,
+    "reader_id": "1874",
+    "name": "Ernst Schnell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 503,
+    "reader_id": "9023",
+    "name": "P. J. Morgan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 504,
+    "reader_id": "3114",
+    "name": "Geoffrey Edwards",
+    "gender": "Male"
+  },
+  {
+    "speaker": 505,
+    "reader_id": "6235",
+    "name": "ReadWriteLib",
+    "gender": "Female"
+  },
+  {
+    "speaker": 506,
+    "reader_id": "4860",
+    "name": "Jonah Cummings",
+    "gender": "Male"
+  },
+  {
+    "speaker": 507,
+    "reader_id": "4519",
+    "name": "Mimi Wang",
+    "gender": "Female"
+  },
+  {
+    "speaker": 508,
+    "reader_id": "561",
+    "name": "Quentin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 509,
+    "reader_id": "70",
+    "name": "Kurt Copeland",
+    "gender": "Male"
+  },
+  {
+    "speaker": 510,
+    "reader_id": "4800",
+    "name": "Mary Herndon Bell",
+    "gender": "Female"
+  },
+  {
+    "speaker": 511,
+    "reader_id": "2294",
+    "name": "James Christopher",
+    "gender": "Male"
+  },
+  {
+    "speaker": 512,
+    "reader_id": "6115",
+    "name": "MitchHerd",
+    "gender": "Male"
+  },
+  {
+    "speaker": 513,
+    "reader_id": "2582",
+    "name": "dolce",
+    "gender": "Female"
+  },
+  {
+    "speaker": 514,
+    "reader_id": "8464",
+    "name": "HappyMiamiDad",
+    "gender": "Male"
+  },
+  {
+    "speaker": 515,
+    "reader_id": "5139",
+    "name": "Katine",
+    "gender": "Female"
+  },
+  {
+    "speaker": 516,
+    "reader_id": "6918",
+    "name": "Marilyn Mack",
+    "gender": "Female"
+  },
+  {
+    "speaker": 517,
+    "reader_id": "337",
+    "name": "Barbara Harvey",
+    "gender": "Female"
+  },
+  {
+    "speaker": 518,
+    "reader_id": "5810",
+    "name": "Patrick Reinhart",
+    "gender": "Male"
+  },
+  {
+    "speaker": 519,
+    "reader_id": "8401",
+    "name": "Alexander Hatton",
+    "gender": "Male"
+  },
+  {
+    "speaker": 520,
+    "reader_id": "303",
+    "name": "Tony Hightower",
+    "gender": "Male"
+  },
+  {
+    "speaker": 521,
+    "reader_id": "5206",
+    "name": "Simon Dexter",
+    "gender": "Male"
+  },
+  {
+    "speaker": 522,
+    "reader_id": "2589",
+    "name": "Jordan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 523,
+    "reader_id": "7061",
+    "name": "AllenJohns",
+    "gender": "Male"
+  },
+  {
+    "speaker": 524,
+    "reader_id": "2269",
+    "name": "Rhonda Federman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 525,
+    "reader_id": "2758",
+    "name": "SopranoHarmony",
+    "gender": "Female"
+  },
+  {
+    "speaker": 526,
+    "reader_id": "3389",
+    "name": "von",
+    "gender": "Male"
+  },
+  {
+    "speaker": 527,
+    "reader_id": "4629",
+    "name": "Edward W. LaBonte",
+    "gender": "Male"
+  },
+  {
+    "speaker": 528,
+    "reader_id": "707",
+    "name": "Jason Mayoff",
+    "gender": "Male"
+  },
+  {
+    "speaker": 529,
+    "reader_id": "5606",
+    "name": "PrincessG",
+    "gender": "Female"
+  },
+  {
+    "speaker": 530,
+    "reader_id": "1513",
+    "name": "Simon-Peter Zak",
+    "gender": "Male"
+  },
+  {
+    "speaker": 531,
+    "reader_id": "2473",
+    "name": "Hoosemon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 532,
+    "reader_id": "664",
+    "name": "Wendy G.",
+    "gender": "Female"
+  },
+  {
+    "speaker": 533,
+    "reader_id": "5092",
+    "name": "Josh Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 534,
+    "reader_id": "5154",
+    "name": "Danarra",
+    "gender": "Female"
+  },
+  {
+    "speaker": 535,
+    "reader_id": "6288",
+    "name": "Sunni West",
+    "gender": "Female"
+  },
+  {
+    "speaker": 536,
+    "reader_id": "6308",
+    "name": "Easton",
+    "gender": "Female"
+  },
+  {
+    "speaker": 537,
+    "reader_id": "4731",
+    "name": "Becky Cook",
+    "gender": "Female"
+  },
+  {
+    "speaker": 538,
+    "reader_id": "3328",
+    "name": "Al Dano",
+    "gender": "Male"
+  },
+  {
+    "speaker": 539,
+    "reader_id": "7816",
+    "name": "Stefanie Heinrichs",
+    "gender": "Female"
+  },
+  {
+    "speaker": 540,
+    "reader_id": "3221",
+    "name": "David Schoepf",
+    "gender": "Male"
+  },
+  {
+    "speaker": 541,
+    "reader_id": "8687",
+    "name": "EccentricOwl",
+    "gender": "Male"
+  },
+  {
+    "speaker": 542,
+    "reader_id": "7030",
+    "name": "Conrad T",
+    "gender": "Male"
+  },
+  {
+    "speaker": 543,
+    "reader_id": "476",
+    "name": "Chuck Spann",
+    "gender": "Male"
+  },
+  {
+    "speaker": 544,
+    "reader_id": "5918",
+    "name": "Mike Wajda",
+    "gender": "Male"
+  },
+  {
+    "speaker": 545,
+    "reader_id": "6317",
+    "name": "Sarah K",
+    "gender": "Female"
+  },
+  {
+    "speaker": 546,
+    "reader_id": "204",
+    "name": "Mark F. Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 547,
+    "reader_id": "8006",
+    "name": "TyroneS",
+    "gender": "Male"
+  },
+  {
+    "speaker": 548,
+    "reader_id": "6895",
+    "name": "Reeses118",
+    "gender": "Female"
+  },
+  {
+    "speaker": 549,
+    "reader_id": "1264",
+    "name": "Matthew Hinman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 550,
+    "reader_id": "112",
+    "name": "Christiane Levesque",
+    "gender": "Female"
+  },
+  {
+    "speaker": 551,
+    "reader_id": "1859",
+    "name": "Jan Baxter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 552,
+    "reader_id": "398",
+    "name": "James Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 553,
+    "reader_id": "1052",
+    "name": "Kathy Jacobs",
+    "gender": "Female"
+  },
+  {
+    "speaker": 554,
+    "reader_id": "3294",
+    "name": "Marcy Fraser",
+    "gender": "Female"
+  },
+  {
+    "speaker": 555,
+    "reader_id": "1460",
+    "name": "E. Plein",
+    "gender": "Female"
+  },
+  {
+    "speaker": 556,
+    "reader_id": "8573",
+    "name": "Paige G",
+    "gender": "Female"
+  },
+  {
+    "speaker": 557,
+    "reader_id": "5684",
+    "name": "Elsa Youngsteadt",
+    "gender": "Female"
+  },
+  {
+    "speaker": 558,
+    "reader_id": "8421",
+    "name": "Jackie Drown",
+    "gender": "Female"
+  },
+  {
+    "speaker": 559,
+    "reader_id": "5883",
+    "name": "Jerry Romero",
+    "gender": "Male"
+  },
+  {
+    "speaker": 560,
+    "reader_id": "7297",
+    "name": "Mudlark",
+    "gender": "Female"
+  },
+  {
+    "speaker": 561,
+    "reader_id": "246",
+    "name": "Beth Dudek",
+    "gender": "Female"
+  },
+  {
+    "speaker": 562,
+    "reader_id": "8057",
+    "name": "Linda Dougherty",
+    "gender": "Female"
+  },
+  {
+    "speaker": 563,
+    "reader_id": "3835",
+    "name": "M.White",
+    "gender": "Male"
+  },
+  {
+    "speaker": 564,
+    "reader_id": "1748",
+    "name": "Brad Powers",
+    "gender": "Male"
+  },
+  {
+    "speaker": 565,
+    "reader_id": "3816",
+    "name": "Bev J Stevens",
+    "gender": "Female"
+  },
+  {
+    "speaker": 566,
+    "reader_id": "3357",
+    "name": "swade",
+    "gender": "Female"
+  },
+  {
+    "speaker": 567,
+    "reader_id": "1053",
+    "name": "katyleah",
+    "gender": "Female"
+  },
+  {
+    "speaker": 568,
+    "reader_id": "409",
+    "name": "Mike Kauffmann",
+    "gender": "Male"
+  },
+  {
+    "speaker": 569,
+    "reader_id": "868",
+    "name": "Mike Rosenlof",
+    "gender": "Male"
+  },
+  {
+    "speaker": 570,
+    "reader_id": "3118",
+    "name": "George Yeager",
+    "gender": "Male"
+  },
+  {
+    "speaker": 571,
+    "reader_id": "7520",
+    "name": "Richard Jackson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 572,
+    "reader_id": "2494",
+    "name": "Mark Cawley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 573,
+    "reader_id": "6686",
+    "name": "Elin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 574,
+    "reader_id": "1241",
+    "name": "Catherine Fitz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 575,
+    "reader_id": "5190",
+    "name": "Rom Maczka",
+    "gender": "Male"
+  },
+  {
+    "speaker": 576,
+    "reader_id": "166",
+    "name": "Paula Berinstein",
+    "gender": "Female"
+  },
+  {
+    "speaker": 577,
+    "reader_id": "4257",
+    "name": "garbageman99",
+    "gender": "Male"
+  },
+  {
+    "speaker": 578,
+    "reader_id": "1482",
+    "name": "Joshua B. Christensen",
+    "gender": "Male"
+  },
+  {
+    "speaker": 579,
+    "reader_id": "5604",
+    "name": "kittyandcheese",
+    "gender": "Female"
+  },
+  {
+    "speaker": 580,
+    "reader_id": "1212",
+    "name": "Lee Ann Howlett",
+    "gender": "Female"
+  },
+  {
+    "speaker": 581,
+    "reader_id": "2741",
+    "name": "Jan Dawn Doronila",
+    "gender": "Female"
+  },
+  {
+    "speaker": 582,
+    "reader_id": "1259",
+    "name": "Elizabeth Klett",
+    "gender": "Female"
+  },
+  {
+    "speaker": 583,
+    "reader_id": "984",
+    "name": "J A Carter",
+    "gender": "Male"
+  },
+  {
+    "speaker": 584,
+    "reader_id": "6492",
+    "name": "Hugh Gillis",
+    "gender": "Male"
+  },
+  {
+    "speaker": 585,
+    "reader_id": "6167",
+    "name": "Janet",
+    "gender": "Female"
+  },
+  {
+    "speaker": 586,
+    "reader_id": "296",
+    "name": "Carl Manchester",
+    "gender": "Male"
+  },
+  {
+    "speaker": 587,
+    "reader_id": "6567",
+    "name": "vikvenom",
+    "gender": "Female"
+  },
+  {
+    "speaker": 588,
+    "reader_id": "6924",
+    "name": "Rapunzelina",
+    "gender": "Female"
+  },
+  {
+    "speaker": 589,
+    "reader_id": "2272",
+    "name": "Alec Daitsman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 590,
+    "reader_id": "7085",
+    "name": "voicebynatalie",
+    "gender": "Male"
+  },
+  {
+    "speaker": 591,
+    "reader_id": "2388",
+    "name": "Greg Bell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 592,
+    "reader_id": "1705",
+    "name": "tittletattle",
+    "gender": "Female"
+  },
+  {
+    "speaker": 593,
+    "reader_id": "1343",
+    "name": "Laura Koskinen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 594,
+    "reader_id": "7241",
+    "name": "AdrianBisson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 595,
+    "reader_id": "451",
+    "name": "Sonserae Leese-Calver",
+    "gender": "Female"
+  },
+  {
+    "speaker": 596,
+    "reader_id": "345",
+    "name": "Micah Sheppard",
+    "gender": "Male"
+  },
+  {
+    "speaker": 597,
+    "reader_id": "5401",
+    "name": "Andrew Nelson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 598,
+    "reader_id": "6446",
+    "name": "Bob Gonzalez",
+    "gender": "Male"
+  },
+  {
+    "speaker": 599,
+    "reader_id": "612",
+    "name": "Cindy Steib",
+    "gender": "Female"
+  },
+  {
+    "speaker": 600,
+    "reader_id": "594",
+    "name": "KentF",
+    "gender": "Male"
+  },
+  {
+    "speaker": 601,
+    "reader_id": "7555",
+    "name": "Suebee",
+    "gender": "Female"
+  },
+  {
+    "speaker": 602,
+    "reader_id": "7069",
+    "name": "John Schuurman",
+    "gender": "Male"
+  },
+  {
+    "speaker": 603,
+    "reader_id": "2577",
+    "name": "K Hindall",
+    "gender": "Female"
+  },
+  {
+    "speaker": 604,
+    "reader_id": "5333",
+    "name": "Robert Fletcher",
+    "gender": "Male"
+  },
+  {
+    "speaker": 605,
+    "reader_id": "8742",
+    "name": "Adam Taylor",
+    "gender": "Male"
+  },
+  {
+    "speaker": 606,
+    "reader_id": "6727",
+    "name": "Tony Russell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 607,
+    "reader_id": "1571",
+    "name": "Bob Tassinari",
+    "gender": "Male"
+  },
+  {
+    "speaker": 608,
+    "reader_id": "4734",
+    "name": "Adib Masumian",
+    "gender": "Male"
+  },
+  {
+    "speaker": 609,
+    "reader_id": "7258",
+    "name": "acloward",
+    "gender": "Male"
+  },
+  {
+    "speaker": 610,
+    "reader_id": "3977",
+    "name": "LivelyHive",
+    "gender": "Male"
+  },
+  {
+    "speaker": 611,
+    "reader_id": "373",
+    "name": "Kim Braun",
+    "gender": "Female"
+  },
+  {
+    "speaker": 612,
+    "reader_id": "5723",
+    "name": "Linda Hogan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 613,
+    "reader_id": "1365",
+    "name": "Joel Poortenga",
+    "gender": "Male"
+  },
+  {
+    "speaker": 614,
+    "reader_id": "7285",
+    "name": "Christina M. Glavas",
+    "gender": "Female"
+  },
+  {
+    "speaker": 615,
+    "reader_id": "580",
+    "name": "Ryan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 616,
+    "reader_id": "836",
+    "name": "Kevin LaVergne",
+    "gender": "Male"
+  },
+  {
+    "speaker": 617,
+    "reader_id": "6782",
+    "name": "zcameo",
+    "gender": "Female"
+  },
+  {
+    "speaker": 618,
+    "reader_id": "3654",
+    "name": "Mark Wilson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 619,
+    "reader_id": "1974",
+    "name": "Katie Baynes",
+    "gender": "Female"
+  },
+  {
+    "speaker": 620,
+    "reader_id": "6258",
+    "name": "haggisreflux",
+    "gender": "Male"
+  },
+  {
+    "speaker": 621,
+    "reader_id": "925",
+    "name": "pattymarie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 622,
+    "reader_id": "949",
+    "name": "ontheroad",
+    "gender": "Male"
+  },
+  {
+    "speaker": 623,
+    "reader_id": "2790",
+    "name": "Victoria Slonosky",
+    "gender": "Female"
+  },
+  {
+    "speaker": 624,
+    "reader_id": "698",
+    "name": "Randi Warwick",
+    "gender": "Female"
+  },
+  {
+    "speaker": 625,
+    "reader_id": "6373",
+    "name": "Sandie Guenther",
+    "gender": "Female"
+  },
+  {
+    "speaker": 626,
+    "reader_id": "2785",
+    "name": "humeangel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 627,
+    "reader_id": "1222",
+    "name": "Joseph Ugoretz",
+    "gender": "Male"
+  },
+  {
+    "speaker": 628,
+    "reader_id": "2751",
+    "name": "Angela Kelley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 629,
+    "reader_id": "3825",
+    "name": "Matt Wills",
+    "gender": "Male"
+  },
+  {
+    "speaker": 630,
+    "reader_id": "5115",
+    "name": "Terry Goodyer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 631,
+    "reader_id": "1827",
+    "name": "Doug Wetzel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 632,
+    "reader_id": "3171",
+    "name": "JoeD",
+    "gender": "Male"
+  },
+  {
+    "speaker": 633,
+    "reader_id": "119",
+    "name": "Alex Patterson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 634,
+    "reader_id": "850",
+    "name": "tonypettit",
+    "gender": "Male"
+  },
+  {
+    "speaker": 635,
+    "reader_id": "3258",
+    "name": "mwalimu",
+    "gender": "Female"
+  },
+  {
+    "speaker": 636,
+    "reader_id": "7909",
+    "name": "MGreenberg",
+    "gender": "Male"
+  },
+  {
+    "speaker": 637,
+    "reader_id": "1322",
+    "name": "chris tierney",
+    "gender": "Male"
+  },
+  {
+    "speaker": 638,
+    "reader_id": "8097",
+    "name": "lewildesen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 639,
+    "reader_id": "22",
+    "name": "Michelle Crandall",
+    "gender": "Female"
+  },
+  {
+    "speaker": 640,
+    "reader_id": "7478",
+    "name": "Dan Froese",
+    "gender": "Male"
+  },
+  {
+    "speaker": 641,
+    "reader_id": "1349",
+    "name": "John Pruden",
+    "gender": "Male"
+  },
+  {
+    "speaker": 642,
+    "reader_id": "4854",
+    "name": "Doctor_wu",
+    "gender": "Male"
+  },
+  {
+    "speaker": 643,
+    "reader_id": "2929",
+    "name": "Topaz",
+    "gender": "Male"
+  },
+  {
+    "speaker": 644,
+    "reader_id": "7335",
+    "name": "Kathryn Louise",
+    "gender": "Female"
+  },
+  {
+    "speaker": 645,
+    "reader_id": "5868",
+    "name": "alwpoe",
+    "gender": "Male"
+  },
+  {
+    "speaker": 646,
+    "reader_id": "454",
+    "name": "Tom Yates",
+    "gender": "Male"
+  },
+  {
+    "speaker": 647,
+    "reader_id": "7945",
+    "name": "Lois Browne",
+    "gender": "Female"
+  },
+  {
+    "speaker": 648,
+    "reader_id": "2654",
+    "name": "Notelrac",
+    "gender": "Male"
+  },
+  {
+    "speaker": 649,
+    "reader_id": "3493",
+    "name": "Gail Mattern",
+    "gender": "Female"
+  },
+  {
+    "speaker": 650,
+    "reader_id": "1060",
+    "name": "Val Grimm",
+    "gender": "Female"
+  },
+  {
+    "speaker": 651,
+    "reader_id": "8545",
+    "name": "Joanne Rochon",
+    "gender": "Female"
+  },
+  {
+    "speaker": 652,
+    "reader_id": "6509",
+    "name": "Marianna Foos",
+    "gender": "Female"
+  },
+  {
+    "speaker": 653,
+    "reader_id": "5002",
+    "name": "Brendan Stallard",
+    "gender": "Male"
+  },
+  {
+    "speaker": 654,
+    "reader_id": "7732",
+    "name": "Daniel Vimont",
+    "gender": "Male"
+  },
+  {
+    "speaker": 655,
+    "reader_id": "3082",
+    "name": "Logan McCamon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 656,
+    "reader_id": "1779",
+    "name": "Cynthia Zocca",
+    "gender": "Female"
+  },
+  {
+    "speaker": 657,
+    "reader_id": "2709",
+    "name": "PopularOutcast",
+    "gender": "Female"
+  },
+  {
+    "speaker": 658,
+    "reader_id": "7398",
+    "name": "Marie Daum",
+    "gender": "Female"
+  },
+  {
+    "speaker": 659,
+    "reader_id": "8879",
+    "name": "Son of the Exiles",
+    "gender": "Male"
+  },
+  {
+    "speaker": 660,
+    "reader_id": "639",
+    "name": "Robert Beach",
+    "gender": "Male"
+  },
+  {
+    "speaker": 661,
+    "reader_id": "598",
+    "name": "Kim",
+    "gender": "Female"
+  },
+  {
+    "speaker": 662,
+    "reader_id": "5672",
+    "name": "Jacob Paul Starr",
+    "gender": "Male"
+  },
+  {
+    "speaker": 663,
+    "reader_id": "6553",
+    "name": "DublinGothic",
+    "gender": "Male"
+  },
+  {
+    "speaker": 664,
+    "reader_id": "4111",
+    "name": "Rachel P.",
+    "gender": "Female"
+  },
+  {
+    "speaker": 665,
+    "reader_id": "1417",
+    "name": "Psuke Bariah",
+    "gender": "Female"
+  },
+  {
+    "speaker": 666,
+    "reader_id": "7991",
+    "name": "Aaron Weber",
+    "gender": "Male"
+  },
+  {
+    "speaker": 667,
+    "reader_id": "380",
+    "name": "Laurie Campbell",
+    "gender": "Female"
+  },
+  {
+    "speaker": 668,
+    "reader_id": "8459",
+    "name": "sdaeley17",
+    "gender": "Male"
+  },
+  {
+    "speaker": 669,
+    "reader_id": "8347",
+    "name": "Terry Torres",
+    "gender": "Male"
+  },
+  {
+    "speaker": 670,
+    "reader_id": "1769",
+    "name": "ej",
+    "gender": "Male"
+  },
+  {
+    "speaker": 671,
+    "reader_id": "2673",
+    "name": "jude kaider",
+    "gender": "Male"
+  },
+  {
+    "speaker": 672,
+    "reader_id": "3330",
+    "name": "B. G. Oxford",
+    "gender": "Female"
+  },
+  {
+    "speaker": 673,
+    "reader_id": "7051",
+    "name": "Andrew White",
+    "gender": "Male"
+  },
+  {
+    "speaker": 674,
+    "reader_id": "1337",
+    "name": "Steven Rushing",
+    "gender": "Male"
+  },
+  {
+    "speaker": 675,
+    "reader_id": "4057",
+    "name": "RoseA",
+    "gender": "Female"
+  },
+  {
+    "speaker": 676,
+    "reader_id": "4839",
+    "name": "Julie K. Rose",
+    "gender": "Female"
+  },
+  {
+    "speaker": 677,
+    "reader_id": "6060",
+    "name": "Jonathan Lange",
+    "gender": "Male"
+  },
+  {
+    "speaker": 678,
+    "reader_id": "7095",
+    "name": "Wesseling",
+    "gender": "Male"
+  },
+  {
+    "speaker": 679,
+    "reader_id": "278",
+    "name": "AliceG",
+    "gender": "Female"
+  },
+  {
+    "speaker": 680,
+    "reader_id": "1445",
+    "name": "Michael Yard",
+    "gender": "Male"
+  },
+  {
+    "speaker": 681,
+    "reader_id": "6518",
+    "name": "Wayfarer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 682,
+    "reader_id": "2364",
+    "name": "Anna-Maria Viola",
+    "gender": "Female"
+  },
+  {
+    "speaker": 683,
+    "reader_id": "1958",
+    "name": "Furio",
+    "gender": "Male"
+  },
+  {
+    "speaker": 684,
+    "reader_id": "548",
+    "name": "Chris Mitchell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 685,
+    "reader_id": "4010",
+    "name": "David Baldwin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 686,
+    "reader_id": "3072",
+    "name": "Chris Amos",
+    "gender": "Male"
+  },
+  {
+    "speaker": 687,
+    "reader_id": "6993",
+    "name": "Seyed",
+    "gender": "Male"
+  },
+  {
+    "speaker": 688,
+    "reader_id": "8575",
+    "name": "Jeremy Robertson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 689,
+    "reader_id": "2149",
+    "name": "Mark Penfold",
+    "gender": "Male"
+  },
+  {
+    "speaker": 690,
+    "reader_id": "240",
+    "name": "Shurtagal",
+    "gender": "Male"
+  },
+  {
+    "speaker": 691,
+    "reader_id": "2920",
+    "name": "Rechelle",
+    "gender": "Female"
+  },
+  {
+    "speaker": 692,
+    "reader_id": "5588",
+    "name": "Gail Timmerman Vaughan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 693,
+    "reader_id": "1885",
+    "name": "inkwelldragon",
+    "gender": "Female"
+  },
+  {
+    "speaker": 694,
+    "reader_id": "6082",
+    "name": "EyeBones",
+    "gender": "Female"
+  },
+  {
+    "speaker": 695,
+    "reader_id": "9026",
+    "name": "Tammy Porter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 696,
+    "reader_id": "340",
+    "name": "Scott Henkel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 697,
+    "reader_id": "159",
+    "name": "hugh mac",
+    "gender": "Male"
+  },
+  {
+    "speaker": 698,
+    "reader_id": "7730",
+    "name": "Fiddlesticks",
+    "gender": "Female"
+  },
+  {
+    "speaker": 699,
+    "reader_id": "7962",
+    "name": "Jolie O'Dell",
+    "gender": "Female"
+  },
+  {
+    "speaker": 700,
+    "reader_id": "1987",
+    "name": "Michael Macedonia",
+    "gender": "Male"
+  },
+  {
+    "speaker": 701,
+    "reader_id": "3876",
+    "name": "Frances Marcinkiewicz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 702,
+    "reader_id": "8771",
+    "name": "Anna Millard",
+    "gender": "Female"
+  },
+  {
+    "speaker": 703,
+    "reader_id": "5123",
+    "name": "wvthcomp",
+    "gender": "Male"
+  },
+  {
+    "speaker": 704,
+    "reader_id": "3866",
+    "name": "SilverG",
+    "gender": "Male"
+  },
+  {
+    "speaker": 705,
+    "reader_id": "3546",
+    "name": "Jeannie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 706,
+    "reader_id": "7777",
+    "name": "Jacob Paine",
+    "gender": "Male"
+  },
+  {
+    "speaker": 707,
+    "reader_id": "115",
+    "name": "Maddie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 708,
+    "reader_id": "5337",
+    "name": "Danielle",
+    "gender": "Female"
+  },
+  {
+    "speaker": 709,
+    "reader_id": "475",
+    "name": "Jason X.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 710,
+    "reader_id": "1724",
+    "name": "Anna Simon",
+    "gender": "Female"
+  },
+  {
+    "speaker": 711,
+    "reader_id": "6359",
+    "name": "Susan Hanfield",
+    "gender": "Female"
+  },
+  {
+    "speaker": 712,
+    "reader_id": "4260",
+    "name": "Clacas",
+    "gender": "Female"
+  },
+  {
+    "speaker": 713,
+    "reader_id": "2110",
+    "name": "Aaron Elliott",
+    "gender": "Male"
+  },
+  {
+    "speaker": 714,
+    "reader_id": "1845",
+    "name": "Katie Gibboney",
+    "gender": "Female"
+  },
+  {
+    "speaker": 715,
+    "reader_id": "4335",
+    "name": "davidb",
+    "gender": "Male"
+  },
+  {
+    "speaker": 716,
+    "reader_id": "4133",
+    "name": "BigStory",
+    "gender": "Male"
+  },
+  {
+    "speaker": 717,
+    "reader_id": "783",
+    "name": "Gina",
+    "gender": "Female"
+  },
+  {
+    "speaker": 718,
+    "reader_id": "8479",
+    "name": "R.W. Rushing",
+    "gender": "Male"
+  },
+  {
+    "speaker": 719,
+    "reader_id": "1448",
+    "name": "marevalo",
+    "gender": "Female"
+  },
+  {
+    "speaker": 720,
+    "reader_id": "1160",
+    "name": "Gary Gilberd",
+    "gender": "Male"
+  },
+  {
+    "speaker": 721,
+    "reader_id": "7647",
+    "name": "Daniel T. Miller",
+    "gender": "Male"
+  },
+  {
+    "speaker": 722,
+    "reader_id": "2618",
+    "name": "Phil Surette",
+    "gender": "Male"
+  },
+  {
+    "speaker": 723,
+    "reader_id": "3630",
+    "name": "Rachel Gatwood",
+    "gender": "Female"
+  },
+  {
+    "speaker": 724,
+    "reader_id": "4013",
+    "name": "Kevin Maxson",
+    "gender": "Male"
+  },
+  {
+    "speaker": 725,
+    "reader_id": "5242",
+    "name": "Michael Monhollon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 726,
+    "reader_id": "7957",
+    "name": "Wiley Combs",
+    "gender": "Male"
+  },
+  {
+    "speaker": 727,
+    "reader_id": "3852",
+    "name": "selniff",
+    "gender": "Female"
+  },
+  {
+    "speaker": 728,
+    "reader_id": "3889",
+    "name": "Alina",
+    "gender": "Female"
+  },
+  {
+    "speaker": 729,
+    "reader_id": "1387",
+    "name": "Scott Mather",
+    "gender": "Male"
+  },
+  {
+    "speaker": 730,
+    "reader_id": "439",
+    "name": "Robert Garrison",
+    "gender": "Male"
+  },
+  {
+    "speaker": 731,
+    "reader_id": "1425",
+    "name": "Jeanette Ferguson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 732,
+    "reader_id": "2061",
+    "name": "Jodi Krangle",
+    "gender": "Female"
+  },
+  {
+    "speaker": 733,
+    "reader_id": "7395",
+    "name": "Katherine",
+    "gender": "Female"
+  },
+  {
+    "speaker": 734,
+    "reader_id": "7837",
+    "name": "Alfian",
+    "gender": "Male"
+  },
+  {
+    "speaker": 735,
+    "reader_id": "5147",
+    "name": "Cody2",
+    "gender": "Male"
+  },
+  {
+    "speaker": 736,
+    "reader_id": "2319",
+    "name": "Jack Farrell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 737,
+    "reader_id": "3781",
+    "name": "Celena Arter",
+    "gender": "Female"
+  },
+  {
+    "speaker": 738,
+    "reader_id": "1311",
+    "name": "Scott D. Farquhar",
+    "gender": "Male"
+  },
+  {
+    "speaker": 739,
+    "reader_id": "4733",
+    "name": "dwegowy",
+    "gender": "Male"
+  },
+  {
+    "speaker": 740,
+    "reader_id": "8705",
+    "name": "dsilber01",
+    "gender": "Male"
+  },
+  {
+    "speaker": 741,
+    "reader_id": "3094",
+    "name": "moe",
+    "gender": "Female"
+  },
+  {
+    "speaker": 742,
+    "reader_id": "2823",
+    "name": "ChrisC",
+    "gender": "Male"
+  },
+  {
+    "speaker": 743,
+    "reader_id": "1914",
+    "name": "Kevin Kivikko",
+    "gender": "Male"
+  },
+  {
+    "speaker": 744,
+    "reader_id": "954",
+    "name": "Brooks Seveer",
+    "gender": "Male"
+  },
+  {
+    "speaker": 745,
+    "reader_id": "4381",
+    "name": "Denise Resnik",
+    "gender": "Female"
+  },
+  {
+    "speaker": 746,
+    "reader_id": "4044",
+    "name": "serenitylee",
+    "gender": "Female"
+  },
+  {
+    "speaker": 747,
+    "reader_id": "593",
+    "name": "Eric S. Piotrowski",
+    "gender": "Male"
+  },
+  {
+    "speaker": 748,
+    "reader_id": "8300",
+    "name": "Judith Parker",
+    "gender": "Female"
+  },
+  {
+    "speaker": 749,
+    "reader_id": "7558",
+    "name": "J. A. Cook",
+    "gender": "Male"
+  },
+  {
+    "speaker": 750,
+    "reader_id": "6494",
+    "name": "Morey Kunin",
+    "gender": "Male"
+  },
+  {
+    "speaker": 751,
+    "reader_id": "6330",
+    "name": "David Cummings",
+    "gender": "Male"
+  },
+  {
+    "speaker": 752,
+    "reader_id": "5940",
+    "name": "Gargoyle",
+    "gender": "Male"
+  },
+  {
+    "speaker": 753,
+    "reader_id": "7126",
+    "name": "pekein",
+    "gender": "Male"
+  },
+  {
+    "speaker": 754,
+    "reader_id": "1061",
+    "name": "Missie",
+    "gender": "Female"
+  },
+  {
+    "speaker": 755,
+    "reader_id": "6352",
+    "name": "stmacduff",
+    "gender": "Female"
+  },
+  {
+    "speaker": 756,
+    "reader_id": "5186",
+    "name": "Brendan Brown",
+    "gender": "Male"
+  },
+  {
+    "speaker": 757,
+    "reader_id": "1944",
+    "name": "Carolyn Frances",
+    "gender": "Female"
+  },
+  {
+    "speaker": 758,
+    "reader_id": "2285",
+    "name": "Bob Sage",
+    "gender": "Male"
+  },
+  {
+    "speaker": 759,
+    "reader_id": "6673",
+    "name": "Jenna Lanman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 760,
+    "reader_id": "5746",
+    "name": "DL Pead",
+    "gender": "Male"
+  },
+  {
+    "speaker": 761,
+    "reader_id": "208",
+    "name": "Andrea L",
+    "gender": "Female"
+  },
+  {
+    "speaker": 762,
+    "reader_id": "492",
+    "name": "TBOL3",
+    "gender": "Male"
+  },
+  {
+    "speaker": 763,
+    "reader_id": "216",
+    "name": "Thomas Davoren",
+    "gender": "Male"
+  },
+  {
+    "speaker": 764,
+    "reader_id": "979",
+    "name": "Kelli Robinson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 765,
+    "reader_id": "1668",
+    "name": "stepheather",
+    "gender": "Female"
+  },
+  {
+    "speaker": 766,
+    "reader_id": "6620",
+    "name": "Amy Koenig",
+    "gender": "Female"
+  },
+  {
+    "speaker": 767,
+    "reader_id": "711",
+    "name": "Roy Schreiber",
+    "gender": "Male"
+  },
+  {
+    "speaker": 768,
+    "reader_id": "7733",
+    "name": "Jewel Raquel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 769,
+    "reader_id": "8619",
+    "name": "Tad E.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 770,
+    "reader_id": "5157",
+    "name": "drewmac",
+    "gender": "Male"
+  },
+  {
+    "speaker": 771,
+    "reader_id": "829",
+    "name": "frenchfry",
+    "gender": "Female"
+  },
+  {
+    "speaker": 772,
+    "reader_id": "3180",
+    "name": "Mike Conrad",
+    "gender": "Male"
+  },
+  {
+    "speaker": 773,
+    "reader_id": "3979",
+    "name": "Dale A. Bade",
+    "gender": "Female"
+  },
+  {
+    "speaker": 774,
+    "reader_id": "1556",
+    "name": "geofred",
+    "gender": "Male"
+  },
+  {
+    "speaker": 775,
+    "reader_id": "3379",
+    "name": "Kele",
+    "gender": "Female"
+  },
+  {
+    "speaker": 776,
+    "reader_id": "5727",
+    "name": "JDavidMoore",
+    "gender": "Male"
+  },
+  {
+    "speaker": 777,
+    "reader_id": "596",
+    "name": "Carol Goode",
+    "gender": "Female"
+  },
+  {
+    "speaker": 778,
+    "reader_id": "2127",
+    "name": "wrongshore",
+    "gender": "Male"
+  },
+  {
+    "speaker": 779,
+    "reader_id": "581",
+    "name": "C. Berrius",
+    "gender": "Male"
+  },
+  {
+    "speaker": 780,
+    "reader_id": "2652",
+    "name": "MixieArmadillo",
+    "gender": "Female"
+  },
+  {
+    "speaker": 781,
+    "reader_id": "2628",
+    "name": "Zloot",
+    "gender": "Male"
+  },
+  {
+    "speaker": 782,
+    "reader_id": "1849",
+    "name": "Kelly Dougherty",
+    "gender": "Male"
+  },
+  {
+    "speaker": 783,
+    "reader_id": "4238",
+    "name": "Chela",
+    "gender": "Female"
+  },
+  {
+    "speaker": 784,
+    "reader_id": "606",
+    "name": "Julian Jamison",
+    "gender": "Male"
+  },
+  {
+    "speaker": 785,
+    "reader_id": "1224",
+    "name": "Heather Duncan",
+    "gender": "Female"
+  },
+  {
+    "speaker": 786,
+    "reader_id": "1629",
+    "name": "Gwyneth",
+    "gender": "Female"
+  },
+  {
+    "speaker": 787,
+    "reader_id": "1413",
+    "name": "ryanaw",
+    "gender": "Male"
+  },
+  {
+    "speaker": 788,
+    "reader_id": "957",
+    "name": "iscatel",
+    "gender": "Male"
+  },
+  {
+    "speaker": 789,
+    "reader_id": "8592",
+    "name": "Dylan Posa",
+    "gender": "Male"
+  },
+  {
+    "speaker": 790,
+    "reader_id": "2254",
+    "name": "Heidi Preuss",
+    "gender": "Female"
+  },
+  {
+    "speaker": 791,
+    "reader_id": "1323",
+    "name": "Leon Mire",
+    "gender": "Male"
+  },
+  {
+    "speaker": 792,
+    "reader_id": "122",
+    "name": "J.C.",
+    "gender": "Male"
+  },
+  {
+    "speaker": 793,
+    "reader_id": "2093",
+    "name": "RK Wilcox",
+    "gender": "Male"
+  },
+  {
+    "speaker": 794,
+    "reader_id": "1100",
+    "name": "Danielle Flores",
+    "gender": "Female"
+  },
+  {
+    "speaker": 795,
+    "reader_id": "81",
+    "name": "Aaron Decker",
+    "gender": "Male"
+  },
+  {
+    "speaker": 796,
+    "reader_id": "323",
+    "name": "Erica Kuntz",
+    "gender": "Female"
+  },
+  {
+    "speaker": 797,
+    "reader_id": "815",
+    "name": "mawrtea",
+    "gender": "Male"
+  },
+  {
+    "speaker": 798,
+    "reader_id": "2581",
+    "name": "Julie Levi",
+    "gender": "Female"
+  },
+  {
+    "speaker": 799,
+    "reader_id": "543",
+    "name": "Ted Delorme",
+    "gender": "Male"
+  },
+  {
+    "speaker": 800,
+    "reader_id": "6037",
+    "name": "bish",
+    "gender": "Male"
+  },
+  {
+    "speaker": 801,
+    "reader_id": "2397",
+    "name": "texttalker",
+    "gender": "Male"
+  },
+  {
+    "speaker": 802,
+    "reader_id": "5513",
+    "name": "David Callahan",
+    "gender": "Male"
+  },
+  {
+    "speaker": 803,
+    "reader_id": "4495",
+    "name": "Dillon Stiles",
+    "gender": "Male"
+  },
+  {
+    "speaker": 804,
+    "reader_id": "5776",
+    "name": "Chris Pauley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 805,
+    "reader_id": "17",
+    "name": "Gord Mackenzie",
+    "gender": "Male"
+  },
+  {
+    "speaker": 806,
+    "reader_id": "4590",
+    "name": "Diapadion",
+    "gender": "Male"
+  },
+  {
+    "speaker": 807,
+    "reader_id": "8228",
+    "name": "hgal2010",
+    "gender": "Female"
+  },
+  {
+    "speaker": 808,
+    "reader_id": "708",
+    "name": "Kevin Devine",
+    "gender": "Male"
+  },
+  {
+    "speaker": 809,
+    "reader_id": "3792",
+    "name": "Brian Keith Barnes",
+    "gender": "Male"
+  },
+  {
+    "speaker": 810,
+    "reader_id": "3790",
+    "name": "hpark",
+    "gender": "Female"
+  },
+  {
+    "speaker": 811,
+    "reader_id": "7090",
+    "name": "Jon Sindell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 812,
+    "reader_id": "1943",
+    "name": "Corun",
+    "gender": "Male"
+  },
+  {
+    "speaker": 813,
+    "reader_id": "4246",
+    "name": "JLaddJr",
+    "gender": "Male"
+  },
+  {
+    "speaker": 814,
+    "reader_id": "559",
+    "name": "Bill Stackpole",
+    "gender": "Male"
+  },
+  {
+    "speaker": 815,
+    "reader_id": "3738",
+    "name": "Collee McKinnon",
+    "gender": "Female"
+  },
+  {
+    "speaker": 816,
+    "reader_id": "2167",
+    "name": "spiderman0521",
+    "gender": "Male"
+  },
+  {
+    "speaker": 817,
+    "reader_id": "1933",
+    "name": "iremonger",
+    "gender": "Female"
+  },
+  {
+    "speaker": 818,
+    "reader_id": "2162",
+    "name": "Ray Clare",
+    "gender": "Male"
+  },
+  {
+    "speaker": 819,
+    "reader_id": "549",
+    "name": "SarahHadley",
+    "gender": "Female"
+  },
+  {
+    "speaker": 820,
+    "reader_id": "3025",
+    "name": "MichelleHarris",
+    "gender": "Female"
+  },
+  {
+    "speaker": 821,
+    "reader_id": "1182",
+    "name": "Brett Condron",
+    "gender": "Male"
+  },
+  {
+    "speaker": 822,
+    "reader_id": "4358",
+    "name": "Kim Stich",
+    "gender": "Male"
+  },
+  {
+    "speaker": 823,
+    "reader_id": "636",
+    "name": "Zale Schafer (Rose May Chamberlin Memorial Foundat",
+    "gender": "Female"
+  },
+  {
+    "speaker": 824,
+    "reader_id": "986",
+    "name": "Michael Kirkpatrick",
+    "gender": "Male"
+  },
+  {
+    "speaker": 825,
+    "reader_id": "8490",
+    "name": "Matt Parker",
+    "gender": "Male"
+  },
+  {
+    "speaker": 826,
+    "reader_id": "3340",
+    "name": "Preston McConkie",
+    "gender": "Male"
+  },
+  {
+    "speaker": 827,
+    "reader_id": "90",
+    "name": "Dan Threetrees",
+    "gender": "Male"
+  },
+  {
+    "speaker": 828,
+    "reader_id": "1487",
+    "name": "radioreader",
+    "gender": "Male"
+  },
+  {
+    "speaker": 829,
+    "reader_id": "1639",
+    "name": "Joe Konno",
+    "gender": "Male"
+  },
+  {
+    "speaker": 830,
+    "reader_id": "1547",
+    "name": "Riddleman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 831,
+    "reader_id": "4152",
+    "name": "Ata Khudayberdiev",
+    "gender": "Male"
+  },
+  {
+    "speaker": 832,
+    "reader_id": "1498",
+    "name": "Lori Hebel",
+    "gender": "Female"
+  },
+  {
+    "speaker": 833,
+    "reader_id": "1740",
+    "name": "Shubda",
+    "gender": "Female"
+  },
+  {
+    "speaker": 834,
+    "reader_id": "6157",
+    "name": "HotConflict",
+    "gender": "Male"
+  },
+  {
+    "speaker": 835,
+    "reader_id": "217",
+    "name": "firefly",
+    "gender": "Female"
+  },
+  {
+    "speaker": 836,
+    "reader_id": "2201",
+    "name": "Stephen Escalera",
+    "gender": "Male"
+  },
+  {
+    "speaker": 837,
+    "reader_id": "362",
+    "name": "Judith Brown",
+    "gender": "Female"
+  },
+  {
+    "speaker": 838,
+    "reader_id": "2146",
+    "name": "Jeff Stuckey",
+    "gender": "Male"
+  },
+  {
+    "speaker": 839,
+    "reader_id": "1801",
+    "name": "Antonio",
+    "gender": "Male"
+  },
+  {
+    "speaker": 840,
+    "reader_id": "5063",
+    "name": "susanfrom",
+    "gender": "Female"
+  },
+  {
+    "speaker": 841,
+    "reader_id": "7339",
+    "name": "wildalaska",
+    "gender": "Male"
+  },
+  {
+    "speaker": 842,
+    "reader_id": "663",
+    "name": "Bruce Stafford",
+    "gender": "Male"
+  },
+  {
+    "speaker": 843,
+    "reader_id": "38",
+    "name": "R. Francis Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 844,
+    "reader_id": "1336",
+    "name": "Charlie Blakemore",
+    "gender": "Male"
+  },
+  {
+    "speaker": 845,
+    "reader_id": "3215",
+    "name": "Shirley Ellen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 846,
+    "reader_id": "210",
+    "name": "Aldark",
+    "gender": "Male"
+  },
+  {
+    "speaker": 847,
+    "reader_id": "6075",
+    "name": "Rob Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 848,
+    "reader_id": "55",
+    "name": "David Jaquay",
+    "gender": "Male"
+  },
+  {
+    "speaker": 849,
+    "reader_id": "2411",
+    "name": "kristiface",
+    "gender": "Female"
+  },
+  {
+    "speaker": 850,
+    "reader_id": "7445",
+    "name": "Emily Anderson",
+    "gender": "Female"
+  },
+  {
+    "speaker": 851,
+    "reader_id": "5767",
+    "name": "taijohn",
+    "gender": "Male"
+  },
+  {
+    "speaker": 852,
+    "reader_id": "2812",
+    "name": "Greg Hartley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 853,
+    "reader_id": "472",
+    "name": "Tina Tilney",
+    "gender": "Female"
+  },
+  {
+    "speaker": 854,
+    "reader_id": "803",
+    "name": "Greg Elmensdorp",
+    "gender": "Male"
+  },
+  {
+    "speaker": 855,
+    "reader_id": "4236",
+    "name": "Nicholas Feulner",
+    "gender": "Male"
+  },
+  {
+    "speaker": 856,
+    "reader_id": "7665",
+    "name": "Christian Mitchell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 857,
+    "reader_id": "1607",
+    "name": "Claude Banta",
+    "gender": "Male"
+  },
+  {
+    "speaker": 858,
+    "reader_id": "1316",
+    "name": "Estragon",
+    "gender": "Male"
+  },
+  {
+    "speaker": 859,
+    "reader_id": "7475",
+    "name": "Jared Hess",
+    "gender": "Male"
+  },
+  {
+    "speaker": 860,
+    "reader_id": "3001",
+    "name": "priscilla hewitt",
+    "gender": "Female"
+  },
+  {
+    "speaker": 861,
+    "reader_id": "1473",
+    "name": "Dan Polanco",
+    "gender": "Male"
+  },
+  {
+    "speaker": 862,
+    "reader_id": "3537",
+    "name": "Tracy Datlen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 863,
+    "reader_id": "3070",
+    "name": "Mike Schwabe",
+    "gender": "Male"
+  },
+  {
+    "speaker": 864,
+    "reader_id": "1390",
+    "name": "C.L.Coney",
+    "gender": "Female"
+  },
+  {
+    "speaker": 865,
+    "reader_id": "1290",
+    "name": "librarianite",
+    "gender": "Female"
+  },
+  {
+    "speaker": 866,
+    "reader_id": "2499",
+    "name": "Paul Henry Tremblay",
+    "gender": "Male"
+  },
+  {
+    "speaker": 867,
+    "reader_id": "154",
+    "name": "Robert Foster",
+    "gender": "Male"
+  },
+  {
+    "speaker": 868,
+    "reader_id": "7518",
+    "name": "TJDasch",
+    "gender": "Male"
+  },
+  {
+    "speaker": 869,
+    "reader_id": "408",
+    "name": "Claudine Chen",
+    "gender": "Female"
+  },
+  {
+    "speaker": 870,
+    "reader_id": "1811",
+    "name": "Eric Ray",
+    "gender": "Male"
+  },
+  {
+    "speaker": 871,
+    "reader_id": "1734",
+    "name": "LuvDemBrooders",
+    "gender": "Female"
+  },
+  {
+    "speaker": 872,
+    "reader_id": "7342",
+    "name": "Carol",
+    "gender": "Female"
+  },
+  {
+    "speaker": 873,
+    "reader_id": "8722",
+    "name": "Emily Maynard",
+    "gender": "Female"
+  },
+  {
+    "speaker": 874,
+    "reader_id": "1754",
+    "name": "Joan Freeman",
+    "gender": "Female"
+  },
+  {
+    "speaker": 875,
+    "reader_id": "7657",
+    "name": "shalclark",
+    "gender": "Female"
+  },
+  {
+    "speaker": 876,
+    "reader_id": "583",
+    "name": "Russ Maxwell",
+    "gender": "Male"
+  },
+  {
+    "speaker": 877,
+    "reader_id": "830",
+    "name": "sebrazer",
+    "gender": "Female"
+  },
+  {
+    "speaker": 878,
+    "reader_id": "6690",
+    "name": "T Michael Burke",
+    "gender": "Male"
+  },
+  {
+    "speaker": 879,
+    "reader_id": "1552",
+    "name": "Roger Turnau",
+    "gender": "Male"
+  },
+  {
+    "speaker": 880,
+    "reader_id": "2498",
+    "name": "B. Grebe",
+    "gender": "Female"
+  },
+  {
+    "speaker": 881,
+    "reader_id": "1296",
+    "name": "Gigi Minden",
+    "gender": "Female"
+  },
+  {
+    "speaker": 882,
+    "reader_id": "3686",
+    "name": "Doug Delisle",
+    "gender": "Male"
+  },
+  {
+    "speaker": 883,
+    "reader_id": "157",
+    "name": "Ben Douglas",
+    "gender": "Male"
+  },
+  {
+    "speaker": 884,
+    "reader_id": "487",
+    "name": "Clayton J. Smith",
+    "gender": "Male"
+  },
+  {
+    "speaker": 885,
+    "reader_id": "6119",
+    "name": "Vinnie Tesla",
+    "gender": "Male"
+  },
+  {
+    "speaker": 886,
+    "reader_id": "4926",
+    "name": "browneyedgirl32382",
+    "gender": "Female"
+  },
+  {
+    "speaker": 887,
+    "reader_id": "4846",
+    "name": "Kathrin Salazar",
+    "gender": "Female"
+  },
+  {
+    "speaker": 888,
+    "reader_id": "1536",
+    "name": "Marco",
+    "gender": "Male"
+  },
+  {
+    "speaker": 889,
+    "reader_id": "2674",
+    "name": "Jason Procopio",
+    "gender": "Male"
+  },
+  {
+    "speaker": 890,
+    "reader_id": "1645",
+    "name": "David Shamp",
+    "gender": "Male"
+  },
+  {
+    "speaker": 891,
+    "reader_id": "3187",
+    "name": "Wasichu",
+    "gender": "Male"
+  },
+  {
+    "speaker": 892,
+    "reader_id": "1058",
+    "name": "James Tiley",
+    "gender": "Male"
+  },
+  {
+    "speaker": 893,
+    "reader_id": "2039",
+    "name": "Anton",
+    "gender": "Male"
+  },
+  {
+    "speaker": 894,
+    "reader_id": "4071",
+    "name": "Nichelle von Lauder",
+    "gender": "Female"
+  },
+  {
+    "speaker": 895,
+    "reader_id": "4433",
+    "name": "Ken Sterry",
+    "gender": "Male"
+  },
+  {
+    "speaker": 896,
+    "reader_id": "1175",
+    "name": "Brother Patrick",
+    "gender": "Male"
+  },
+  {
+    "speaker": 897,
+    "reader_id": "434",
+    "name": "Joyce Nussbaum",
+    "gender": "Female"
+  },
+  {
+    "speaker": 898,
+    "reader_id": "1001",
+    "name": "Eric",
+    "gender": "Male"
+  },
+  {
+    "speaker": 899,
+    "reader_id": "2816",
+    "name": "Andrew Symons",
+    "gender": "Male"
+  },
+  {
+    "speaker": 900,
+    "reader_id": "820",
+    "name": "Scoot",
+    "gender": "Male"
+  },
+  {
+    "speaker": 901,
+    "reader_id": "2696",
+    "name": "anonymous",
+    "gender": "Male"
+  },
+  {
+    "speaker": 902,
+    "reader_id": "4681",
+    "name": "Frank Adams",
+    "gender": "Male"
+  },
+  {
+    "speaker": 903,
+    "reader_id": "2085",
+    "name": "Stephanie Dupal-Demartin",
+    "gender": "Female"
+  }
+]

@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.2.9 (personal build)
+
+- Keep both Welcome actions fully readable, with full-width touch targets on phones and scrolling on short screens.
+
+## 0.2.8 (personal build)
+
+- Welcome new users with a choice to download Piper or study without sound. Piper is the default engine; no voice pack downloads before opt-in.
+- Refresh the in-app settings, information, cache, and theme icons.
+
 ## 0.2.7 (personal build)
 
 - Optionally read an expanded explanation after its answer, using the answer voice.
