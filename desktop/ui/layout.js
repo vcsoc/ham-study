@@ -6,7 +6,7 @@
   const min = 180;
   const limit = () => Math.floor(Math.min(720, innerWidth * 0.55, innerWidth - 360));
   const desktop = matchMedia('(min-width:761px)');
-  let preference = 232;
+  let preference = 304;
   try {
     const saved = Number(localStorage.getItem(storageKey));
     if (saved >= min && saved <= 720) preference = saved;

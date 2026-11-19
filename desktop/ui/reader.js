@@ -14,6 +14,7 @@
   const questionVoice = document.getElementById('question-voice');
   const answerVoice = document.getElementById('answer-voice');
   let generation = Date.now(), paused = false, audio = null, activeWord = null, originals = [], progressTimer = null, setupReady = false, androidSpeech = false;
+  let currentPassage = null;
   const cache = new Map();
   const preparingRows = new Map();
   const invoke = window.__TAURI__?.core?.invoke;
@@ -127,6 +128,7 @@
   }
   function stopReading(message = 'Stopped.') {
     generation++;
+    currentPassage = null;
     if (invoke) invoke('speech_cancel', {generation}).catch(() => {});
     if (progressTimer !== null) { clearInterval(progressTimer); progressTimer = null; }
     for (const [row, entry] of preparingRows) clearPreparation(row, entry);
@@ -188,6 +190,7 @@
     const weights = passage.words.map(word => Math.max(1, word.textContent.replace(/[^\p{L}\p{N}]/gu, '').length));
     const total = weights.reduce((sum, weight) => sum + weight, 0);
     function updateWord() {
+      if (!weights.length) return;
       if (!Number.isFinite(player.duration) || player.duration <= 0 || player.paused) return;
       const target = Math.min(1, player.currentTime / player.duration) * total;
       let sum = 0, index = weights.length - 1;
@@ -208,7 +211,7 @@
     });
     if (audio === player) audio = null;
   }
-  async function startReading(startRow = null) {
+  async function startReading(startRow = null, startPaused = false) {
     stopReading(startRow ? 'Starting selected question...' : androidSpeech ? 'Preparing Android speech...' : 'Preparing speech; first use downloads approximately 1.5 GB and may take several minutes...');
     startRow = startRow || study.querySelector('.selected-question') || study.querySelector('.study-category[open] .study-section[open] ol.study-questions > li') || study.querySelector('.study-category[open] ol.study-questions > li') || study.querySelector('ol.study-questions > li');
     const section = startRow && startRow.closest('section');
@@ -243,9 +246,12 @@
     }, 300);
     const passages = makePassages(section, startRow);
     play.disabled = true; pause.disabled = false; stop.disabled = false;
+    currentPassage = passages[0] ?? null;
+    if (startPaused) pause.click();
     try {
       let pending = passages.length ? requestPassage(passages[0], id) : null;
       for (let i = 0; i < passages.length; i++) {
+        currentPassage = passages[i];
         const result = await pending;
         if (id !== generation) return;
         if (result.error) throw result.error;
@@ -262,6 +268,17 @@
         window.HamStudyGroups.reveal(passages[i].row);
         status.textContent = 'Reading ' + section.querySelector('h2').textContent.trim() + ' (word highlighting is approximate)';
         await playPassage(passages[i], result.data, id);
+        if (id !== generation) return;
+        await window.HamStudyReaderOptions.readExplanation(passages[i], () => id === generation, async (passage, expanded) => {
+          await waitWhilePaused(id);
+          if (!expanded()) return;
+          status.textContent = 'Reading expanded explanation...';
+          const explanation = await requestPassage(passage, id);
+          if (!expanded()) return;
+          if (explanation.error) throw explanation.error;
+          await playPassage(passage, explanation.data, id);
+        });
+        if (id !== generation) return;
       }
       if (id === generation) stopReading('Finished reading this category.');
     } catch (error) {
@@ -286,11 +303,14 @@
     status.textContent = paused ? 'Paused.' : 'Reading...';
   });
   stop.addEventListener('click', () => stopReading());
-  document.addEventListener('keydown', event => {
-    if (event.repeat || event.altKey || event.ctrlKey || event.metaKey || event.target.closest('input, textarea, select, summary, [contenteditable="true"]')) return;
-    const button = event.target.closest('button');
-    if (event.code === 'Space' && !pause.disabled && (!button || button.matches('#reader-play, #reader-pause, #reader-stop'))) { event.preventDefault(); pause.click(); }
-    else if (event.key === 'Escape' && !stop.disabled) { event.preventDefault(); stop.click(); }
+  window.HamStudyReaderOptions.shortcuts({
+    active: () => !pause.disabled,
+    togglePause: () => pause.click(),
+    stop: () => stop.click(),
+    skip(offset) {
+      const row = window.HamStudyReaderOptions.adjacent(currentPassage?.row || study.querySelector('.selected-question'), offset);
+      if (row) startReading(row, paused);
+    }
   });
   window.addEventListener('hashchange', () => {
     if (!/^#category-\d+$/.test(location.hash)) stopReading('Reader is available in the question bank.');

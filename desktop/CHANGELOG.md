@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.7 (personal build)
+
+- Optionally read an expanded explanation after its answer, using the answer voice.
+- Pause or resume active reading with Space; use Up and Down to jump between questions.
+- Default to the reference Linux window and sidebar sizes, without overriding saved sizes.
+
 ## 0.2.6 (personal build)
 
 - Drag the sidebar divider to resize the study navigation. The sidebar width and normal Linux window size are restored on launch.
