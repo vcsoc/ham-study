@@ -106,7 +106,9 @@
     study.querySelector('.selected-question')?.classList.remove('selected-question');
     row.classList.add('selected-question');
   }
-  study.addEventListener('click', event => selectQuestion(event.target.closest('ol > li')));
+  study.addEventListener('click', event => {
+    if (!event.target.closest('.question-explanation')) selectQuestion(event.target.closest('section > ol > li'));
+  });
   document.addEventListener('ham-select-question', event => selectQuestion(event.detail));
   const updateInfo = () => { infoButton.title = status.textContent; infoButton.setAttribute('aria-label', 'Reader information: ' + status.textContent); };
   new MutationObserver(updateInfo).observe(status, {childList:true, characterData:true, subtree:true});
@@ -137,7 +139,7 @@
   }
   function makePassages(section, startRow) {
     const passages = [];
-    const rows = Array.from(section.querySelectorAll('ol > li'));
+    const rows = Array.from(section.querySelectorAll(':scope > ol > li'));
     const start = startRow ? rows.indexOf(startRow) : 0;
     rows.slice(Math.max(0, start)).forEach(row => {
       [row.querySelector('.question'), row.querySelector('.answer strong')].forEach((element, index) => {
@@ -268,7 +270,8 @@
   play.addEventListener('click', () => startReading());
   study.addEventListener('dblclick', event => {
     if (stop.disabled) return;
-    const row = event.target.closest('ol > li');
+    if (event.target.closest('.question-explanation')) return;
+    const row = event.target.closest('section > ol > li');
     const section = row && row.closest('#study-page section');
     if (!section) return;
     selectQuestion(row);

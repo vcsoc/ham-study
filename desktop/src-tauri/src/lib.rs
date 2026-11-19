@@ -207,26 +207,6 @@ async fn synthesize_word(app: tauri::AppHandle, state: tauri::State<'_, SpeechRu
     }
 }
 
-#[tauri::command]
-fn open_study_reference(url: String) -> Result<(), String> {
-    const CLARES: &str = "https://www.clares.ca/en/annotated-test-banks/basic-canadian-amateur-radio#question-";
-    const ISED: &str = "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/licences-and-certificates/radiocom-information-circulars-ric/ric-3-information-amateur-radio-service";
-    let allowed = url == ISED || url.strip_prefix(CLARES).is_some_and(|id| {
-        id.len() == 13 && id.bytes().enumerate().all(|(i, b)| match i {
-            0 => b == b'B',
-            1 | 5 | 9 => b == b'-',
-            _ => b.is_ascii_digit(),
-        })
-    });
-    if !allowed {
-        return Err("Unrecognized study reference".into());
-    }
-    #[cfg(target_os = "linux")]
-    return gtk::show_uri_on_window(None::<&gtk::Window>, &url, 0).map_err(|error| error.to_string());
-    #[cfg(not(target_os = "linux"))]
-    Err("Open the reference link in a browser".into())
-}
-
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     let builder = tauri::Builder::default();
@@ -251,6 +231,6 @@ pub fn run() {
         Ok(())
     }).build());
     builder.manage(SpeechRuntime::default())
-        .invoke_handler(tauri::generate_handler![app_version, open_study_reference, synthesize_word, speech_progress, speech_cancel, speech_supported, speech_platform, speech_voices])
+        .invoke_handler(tauri::generate_handler![app_version, synthesize_word, speech_progress, speech_cancel, speech_supported, speech_platform, speech_voices])
         .run(tauri::generate_context!()).expect("failed to run Ham Study Desktop");
 }

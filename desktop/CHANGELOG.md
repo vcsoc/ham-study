@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.3 (personal build)
+
+- Show bundled explanations directly in the study bank and in incorrect or unanswered test results. No browser or network is needed to read them; citation URLs are displayed as text.
+- The private archive is supplied locally at build time and is not part of the repository.
+
 ## 0.2.2
 
 - Click a study question or answer to open its explanation panel. Incorrect and unanswered test results, including saved results, show the same panel.
