@@ -1,0 +1,5 @@
+{
+  "app": {
+    "windows": [{ "title": "Ham Study", "width": 1280, "height": 850, "minWidth": 360, "minHeight": 500, "visible": false }]
+  }
+}

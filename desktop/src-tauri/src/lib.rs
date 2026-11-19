@@ -210,6 +210,21 @@ async fn synthesize_word(app: tauri::AppHandle, state: tauri::State<'_, SpeechRu
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     let builder = tauri::Builder::default();
+    #[cfg(target_os = "linux")]
+    let builder = builder.setup(|app| {
+        use gtk::prelude::*;
+
+        let window = app.get_webview_window("main").ok_or("missing main window")?;
+        let gtk_window = window.gtk_window()?;
+        // A client-side title bar stays draggable even when the compositor draws no title bar.
+        let titlebar = gtk::HeaderBar::new();
+        titlebar.set_title(gtk_window.title().as_deref());
+        titlebar.set_show_close_button(true);
+        gtk_window.set_titlebar(Some(&titlebar));
+        titlebar.show();
+        window.show()?;
+        Ok(())
+    });
     #[cfg(target_os = "android")]
     let builder = builder.plugin(tauri::plugin::Builder::<tauri::Wry, ()>::new("android-speech").setup(|app, api| {
         app.manage(AndroidSpeech(api.register_android_plugin("ca.hamstudy.desktop", "SpeechPlugin")?));
