@@ -44,7 +44,7 @@
   }
 
   const study = document.getElementById('study-page');
-  study.querySelectorAll('section > ol > li').forEach(row => {
+  study.querySelectorAll('ol.study-questions > li').forEach(row => {
     const answer = row.querySelector('.answer');
     const details = panel(row.querySelector('.question-id')?.textContent.trim(), answer);
     if (details) answer.replaceWith(details);
@@ -52,7 +52,7 @@
   study.addEventListener('click', event => {
     const passage = event.target.closest('.question');
     if (!passage || window.getSelection()?.toString()) return;
-    const details = passage.closest('section > ol > li')?.querySelector('.question-explanation');
+    const details = passage.closest('ol.study-questions > li')?.querySelector('.question-explanation');
     if (details) details.open = true;
   });
 

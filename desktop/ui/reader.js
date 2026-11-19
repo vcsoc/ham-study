@@ -107,7 +107,7 @@
     row.classList.add('selected-question');
   }
   study.addEventListener('click', event => {
-    if (!event.target.closest('.explanation-content')) selectQuestion(event.target.closest('section > ol > li'));
+    if (!event.target.closest('.explanation-content')) selectQuestion(event.target.closest('ol.study-questions > li'));
   });
   document.addEventListener('ham-select-question', event => selectQuestion(event.detail));
   const updateInfo = () => { infoButton.title = status.textContent; infoButton.setAttribute('aria-label', 'Reader information: ' + status.textContent); };
@@ -139,7 +139,7 @@
   }
   function makePassages(section, startRow) {
     const passages = [];
-    const rows = Array.from(section.querySelectorAll(':scope > ol > li'));
+    const rows = Array.from(section.querySelectorAll('ol.study-questions > li'));
     const start = startRow ? rows.indexOf(startRow) : 0;
     rows.slice(Math.max(0, start)).forEach(row => {
       [row.querySelector('.question'), row.querySelector('.answer strong')].forEach((element, index) => {
@@ -210,7 +210,7 @@
   }
   async function startReading(startRow = null) {
     stopReading(startRow ? 'Starting selected question...' : androidSpeech ? 'Preparing Android speech...' : 'Preparing speech; first use downloads approximately 1.5 GB and may take several minutes...');
-    startRow = startRow || study.querySelector('.selected-question') || study.querySelector('section ol > li');
+    startRow = startRow || study.querySelector('.selected-question') || study.querySelector('.study-category[open] .study-section[open] ol.study-questions > li') || study.querySelector('.study-category[open] ol.study-questions > li') || study.querySelector('ol.study-questions > li');
     const section = startRow && startRow.closest('section');
     if (!section) return;
     selectQuestion(startRow);
@@ -259,6 +259,7 @@
           if (location.hash !== '#' + section.id) location.hash = '#' + section.id;
         }
         pending = i + 1 < passages.length ? requestPassage(passages[i + 1], id) : null;
+        window.HamStudyGroups.reveal(passages[i].row);
         status.textContent = 'Reading ' + section.querySelector('h2').textContent.trim() + ' (word highlighting is approximate)';
         await playPassage(passages[i], result.data, id);
       }
@@ -271,7 +272,7 @@
   study.addEventListener('dblclick', event => {
     if (stop.disabled) return;
     if (event.target.closest('.explanation-content')) return;
-    const row = event.target.closest('section > ol > li');
+    const row = event.target.closest('ol.study-questions > li');
     const section = row && row.closest('#study-page section');
     if (!section) return;
     selectQuestion(row);

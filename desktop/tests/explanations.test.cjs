@@ -27,8 +27,9 @@ test('private explanations are complete and render in study and saved results of
     return {total: bank.length, copied: Object.keys(entries).length, missing: bank.filter(q => !entries[q.id]).map(q => q.id), unsafe, remapped: entries['B-008-002-011'].sourceId};
   });
   assert.deepEqual(audit, {total: 984, copied: 983, missing: ['B-003-019-008'], unsafe: 0, remapped: 'B-003-019-008'});
-  const row = id => page.locator('#study-page section > ol > li').filter({has: page.locator('.question-id', {hasText: id})});
+  const row = id => page.locator('#study-page ol.study-questions > li').filter({has: page.locator('.question-id', {hasText: id})});
   const age = row('B-001-004-001');
+  await page.locator('#section-B-001-004 > summary').click();
   const details = age.locator('details.question-explanation');
   const answer = age.locator('summary.answer');
   assert.match(await answer.innerText(), /There are no age limits/);
@@ -44,6 +45,8 @@ test('private explanations are complete and render in study and saved results of
   await age.locator('.answer strong').click();
   assert.equal(await details.getAttribute('open'), null);
   assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+  await page.locator('#B-003 > summary').click();
+  await page.locator('#section-B-003-019 > summary').click();
   await row('B-003-019-008').locator('summary').click();
   assert.match(await row('B-003-019-008').locator('details').innerText(), /Ham Study note/);
 

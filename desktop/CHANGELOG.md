@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.5 (personal build)
+
+- Browse the offline bank by CLARES category and section, with synchronized disclosure controls in the sidebar and study area.
+- Search reveals matching questions inside collapsed groups. Read-aloud reveals each section as it reaches it.
+
 ## 0.2.4 (personal build)
 
 - Use the answer itself to open and close its offline explanation, without repeating it or showing a separate "Explanation" control.

@@ -1,7 +1,7 @@
 (() => {
   const input = document.getElementById('question-search');
   const panel = document.getElementById('search-results');
-  const rows = Array.from(document.querySelectorAll('#study-page section ol > li')).map(row => ({
+  const rows = Array.from(document.querySelectorAll('#study-page ol.study-questions > li')).map(row => ({
     row,
     id: row.querySelector('.question-id').textContent.trim(),
     question: row.querySelector('.question').textContent.trim(),
@@ -11,6 +11,7 @@
   function openResult(result) {
     close();
     input.value = result.id;
+    window.HamStudyGroups.reveal(result.row);
     document.dispatchEvent(new CustomEvent('ham-select-question', {detail: result.row}));
     const target = '#' + result.section.id;
     if (location.hash !== target) location.hash = target;
