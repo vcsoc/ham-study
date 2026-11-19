@@ -1,3 +1,6 @@
+#[cfg(target_os = "linux")]
+mod window_size;
+
 use base64::{engine::general_purpose::STANDARD, Engine};
 use serde::Serialize;
 use sha2::{Digest, Sha256};
@@ -222,6 +225,9 @@ pub fn run() {
         titlebar.set_show_close_button(true);
         gtk_window.set_titlebar(Some(&titlebar));
         titlebar.show();
+        if let Ok(config_dir) = app.path().app_config_dir() {
+            window_size::install(&gtk_window, config_dir);
+        }
         window.show()?;
         Ok(())
     });

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.6 (personal build)
+
+- Drag the sidebar divider to resize the study navigation. The sidebar width and normal Linux window size are restored on launch.
+- Give categories, sections and questions distinct visual treatments, and show section and question counts.
+- Use Ctrl+Plus or Ctrl+Minus to zoom the interface and Ctrl+0 to reset it.
+
 ## 0.2.5 (personal build)
 
 - Browse the offline bank by CLARES category and section, with synchronized disclosure controls in the sidebar and study area.

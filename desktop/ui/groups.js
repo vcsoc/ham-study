@@ -81,6 +81,15 @@
     sections.get(id).append(row);
   }
 
+  for (const {details} of categories.values()) {
+    const count = details.querySelectorAll(':scope > .study-section').length;
+    details.firstElementChild.append(element('span', 'study-count', `${count} sections`));
+  }
+  for (const list of sections.values()) {
+    const count = list.childElementCount;
+    list.previousElementSibling.append(element('span', 'study-count', `${count} questions`));
+  }
+
   window.HamStudyGroups = {
     reveal(row) {
       const section = row.closest('.study-section');

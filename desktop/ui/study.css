@@ -1,0 +1,44 @@
+.layout {
+  --study-tint: color-mix(in srgb, var(--accent) 12%, var(--surface));
+  --study-edge: color-mix(in srgb, var(--accent) 30%, var(--line));
+  --study-unit: color-mix(in srgb, var(--accent) 9%, var(--panel));
+}
+.study-nav button { padding: 8px 9px; }
+.study-nav .study-nav-category { font-weight: 670; }
+.study-nav .study-nav-category[aria-expanded="true"] { color: var(--text); background: var(--study-tint); }
+.study-nav-sections { margin-inline-start: 16px; border-inline-start-color: var(--study-edge); }
+.study-nav .study-nav-section[aria-expanded="true"] { background: var(--study-unit); }
+.study-nav button .nav-id { font-size: 10px; }
+
+.study-category { margin: 0 0 20px; }
+.study-category > .study-heading {
+  padding: 15px 17px;
+  background: linear-gradient(110deg, var(--study-tint), var(--surface) 75%);
+  border-color: var(--study-edge);
+  box-shadow: inset 3px 0 0 var(--study-edge);
+}
+.study-category > .study-heading:hover, .study-section > .study-heading:hover { box-shadow: inset 3px 0 0 var(--accent); }
+.study-category > .study-heading h2 { flex: 1; gap: 7px 13px; }
+.study-category > .study-heading h2 span { color: var(--accent); }
+.study-section { margin: 9px 0 0 17px; }
+.study-section > .study-heading { padding: 11px 14px; }
+.study-section[open] > .study-heading { background: var(--study-unit); border-color: var(--study-edge); }
+.study-section-title { flex: 1; }
+.study-section-title .nav-id { padding: 2px 5px; border: 1px solid var(--line); border-radius: 4px; }
+.study-count { flex: none; color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.study-questions { border-color: var(--study-edge); }
+.study-questions > li { grid-template-columns: minmax(96px, 121px) minmax(0, 1fr); gap: 10px; padding: 15px 16px; }
+#study-page .study-questions > li > .question-id { align-self: start; color: var(--muted); }
+.study-questions .question { max-width: 76ch; }
+.study-questions .question-explanation { border-color: transparent; border-inline-start-color: var(--study-edge); background: var(--study-unit); }
+.study-questions .question-explanation[open] { border-color: var(--study-edge); }
+@media (max-width: 920px) {
+  .study-count { display: none; }
+  .study-questions > li { grid-template-columns: 1fr; gap: 4px; }
+}
+@media (max-width: 480px) {
+  .study-section { margin-inline-start: 6px; }
+  .study-heading { gap: 9px; }
+  .study-category > .study-heading { padding: 12px 10px; }
+  .study-questions > li { padding: 12px; }
+}

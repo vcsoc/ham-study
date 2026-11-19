@@ -1,0 +1,35 @@
+const assert = require('node:assert/strict');
+const { test } = require('node:test');
+const { pathToFileURL } = require('node:url');
+const path = require('node:path');
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+
+const ui = process.env.HAM_STUDY_PRIVATE_UI || path.resolve(__dirname, '../ui');
+test('sidebar drag and keyboard width persist through narrow layouts and reloads', async t => {
+  const browser = await chromium.launch();
+  t.after(() => browser.close());
+  const page = await browser.newPage({viewport: {width: 1260, height: 850}, offline: true});
+  await page.goto(pathToFileURL(path.join(ui, 'index.html')).href);
+  const divider = page.getByRole('separator', {name: 'Sidebar width'});
+  const width = () => page.locator('.sidebar').evaluate(sidebar => sidebar.getBoundingClientRect().width);
+  assert.equal(await width(), 232);
+  const box = await divider.boundingBox();
+  await page.mouse.move(box.x + box.width / 2, 210);
+  await page.mouse.down();
+  await page.mouse.move(box.x + box.width / 2 + 240, 210, {steps: 8});
+  await page.mouse.up();
+  assert.equal(await width(), 472);
+  await page.reload();
+  assert.equal(await width(), 472);
+  await page.setViewportSize({width: 800, height: 850});
+  assert.equal(await width(), 440);
+  await page.setViewportSize({width: 390, height: 850});
+  assert.ok(!(await divider.isVisible()));
+  await page.setViewportSize({width: 1260, height: 850});
+  assert.equal(await width(), 472);
+  await divider.press('ArrowLeft');
+  assert.equal(await width(), 456);
+  await page.reload();
+  assert.equal(await width(), 456);
+  assert.equal(await divider.getAttribute('aria-valuenow'), '456');
+});
